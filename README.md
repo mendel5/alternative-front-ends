@@ -1,5 +1,5 @@
 # alternative-frontends
-Alternative frontends to popular internet platforms
+Alternative front-ends for popular internet platforms
 
 Repositories:
 - [Invidious](https://github.com/omarroth/invidious) for YouTube.com
