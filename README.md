@@ -25,3 +25,4 @@ Alternative front-ends for popular internet platforms
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) for German public-service television broadcasters. Official public instance at [mediathekviewweb.de](https://mediathekviewweb.de/). 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search) for Google Search
 - [Searx](https://github.com/asciimoo/searx) as a metasearch engine
+- [HNTopLinks](https://github.com/eguller/hntoplinks) for Hacker News
