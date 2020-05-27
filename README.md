@@ -3,7 +3,7 @@ Alternative front-ends for popular internet platforms
 
 ## Overview
 
-|Service and repository|Official public instance|Example
+|Repository and service|Official public instance|Example
 |:---|:---|:---
 |[Invidious](https://github.com/omarroth/invidious) for YouTube.com|[Invidio.us](https://invidio.us/)<br>(more public instances can be found [here](https://github.com/omarroth/invidious/wiki/Invidious-Instances))|Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 |[Nitter](https://github.com/zedeus/nitter) for Twitter.com|[Nitter.net](https://nitter.net/)<br>(more public instances can be found [here](https://github.com/zedeus/nitter/wiki/Instances))|Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
