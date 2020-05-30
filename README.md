@@ -1,5 +1,5 @@
 # alternative-frontends
-Alternative front-ends for popular internet platforms
+Overview of alternative front-ends for popular internet platforms
 
 ## Overview
 
