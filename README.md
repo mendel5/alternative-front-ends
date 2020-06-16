@@ -1,5 +1,5 @@
 # alternative-frontends
-Overview of alternative front-ends for popular internet platforms
+Overview of alternative open source front-ends for popular internet platforms
 
 |Repository and service|Official public instance|Example
 |:---|:---|:---
