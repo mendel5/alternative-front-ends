@@ -3,7 +3,7 @@ Overview of alternative open source front-ends for popular internet platforms.
 
 |Repository and service|Official public instance|Example
 |:---|:---|:---
-|[Invidious](https://github.com/iv-org/invidious) for YouTube.com|[Invidio.us](https://invidio.us/)<br>(more public instances can be found [here](https://github.com/omarroth/invidious/wiki/Invidious-Instances))|Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
+|[Invidious](https://github.com/iv-org/invidious) for YouTube.com|not available<br>(public instances can be found [here](https://github.com/omarroth/invidious/wiki/Invidious-Instances))|Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 |[Nitter](https://github.com/zedeus/nitter) for Twitter.com|[Nitter.net](https://nitter.net/)<br>(more public instances can be found [here](https://github.com/zedeus/nitter/wiki/Instances))|Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 |[Bibliogram](https://github.com/cloudrac3r/bibliogram) for Instagram.com|[Bibliogram.art](https://bibliogram.art/)<br>(more public instances can be found [here](https://github.com/cloudrac3r/bibliogram/wiki/Instances))|Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
 |[Xeddit](https://github.com/ErlingMK/Xeddit) for Reddit.com|[Xeddit.com](https://www.xeddit.com/)|/r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
