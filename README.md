@@ -12,3 +12,4 @@ Overview of alternative open source front-ends for popular internet platforms.
 |[HNTopLinks](https://github.com/eguller/hntoplinks) for Hacker News|[hntoplinks.com](http://www.hntoplinks.com/)|[HNTopLinks of past month](http://www.hntoplinks.com/month)
 |[MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) for German public-service television broadcasters|[mediathekviewweb.de](https://mediathekviewweb.de/)|not available
 |[Yotter](https://github.com/pluja/Yotter) for YouTube.com and Twitter.com|[yotter.xyz](https://yotter.xyz)|not available
+|[Youtube-viewer](https://github.com/trizen/youtube-viewer) for YouTube.com|not available|not available
