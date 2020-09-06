@@ -11,3 +11,4 @@ Overview of alternative open source front-ends for popular internet platforms.
 |[Searx](https://github.com/asciimoo/searx) as a metasearch engine|not available<br>(public instances can be found [here](https://searx.space/))|[searx.privatenet.cf](https://searx.privatenet.cf/)
 |[HNTopLinks](https://github.com/eguller/hntoplinks) for Hacker News|[hntoplinks.com](http://www.hntoplinks.com/)|[HNTopLinks of past month](http://www.hntoplinks.com/month)
 |[MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) for German public-service television broadcasters|[mediathekviewweb.de](https://mediathekviewweb.de/)|not available
+|[Yotter](https://github.com/pluja/Yotter) for YouTube.com and Twitter.com|[Yotter.xyz](https://yotter.xyz)|not available
