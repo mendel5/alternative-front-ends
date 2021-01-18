@@ -1,7 +1,7 @@
 # alternative-frontends
 Overview of alternative open source front-ends for popular internet platforms.
 
-|Repository and service|Official public instance|Example
+|Repository and service|Instance overview and Official public instance|Example
 |:---|:---|:---
 |[Invidious](https://github.com/iv-org/invidious) for YouTube.com|not available<br>(public instances can be found [here](https://github.com/omarroth/invidious/wiki/Invidious-Instances))|Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 |[Youtube-viewer](https://github.com/trizen/youtube-viewer) for YouTube.com|not available|not available
