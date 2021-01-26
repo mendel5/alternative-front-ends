@@ -12,5 +12,6 @@ Overview of alternative open source front-ends for popular internet platforms.
 |[Teddit](https://codeberg.org/teddit/teddit) for Reddit.com|[teddit.net](https://teddit.net/)|/r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Teddit](https://teddit.net/r/privacy)
 |[Whoogle Search](https://github.com/benbusby/whoogle-search) for Google Search|not available|not available
 |[Searx](https://github.com/searx/searx) as a metasearch engine|not available<br>(public instances can be found [here](https://searx.space/))|[searx.privatenet.cf](https://searx.privatenet.cf/)
+|[Frost](https://github.com/AllanWang/Frost-for-Facebook) for Facebook.com|not available|not available
 |[HNTopLinks](https://github.com/eguller/hntoplinks) for Hacker News|[hntoplinks.com](http://www.hntoplinks.com/)|[HNTopLinks of past month](http://www.hntoplinks.com/month)
 |[MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) for German public-service television broadcasters (e.g. ARD, ZDF)|[mediathekviewweb.de](https://mediathekviewweb.de/)|not available
