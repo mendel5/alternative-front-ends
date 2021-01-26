@@ -1,4 +1,4 @@
-# alternative-frontends
+# alternative-front-ends
 Overview of alternative open source front-ends for popular internet platforms.
 
 |Repository and service|Instance overview and Official public instance|Example
