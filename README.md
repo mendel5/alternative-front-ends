@@ -85,7 +85,7 @@ Overview of alternative open source front-ends for popular internet platforms.
 
 - [Tweeterr](https://github.com/sherwyn11/Tweeterr): tweet from command line
 
-- [Tweet.app](https://github.com/rhysd/tweet-app): desktop Twitter client that only lets one tweet and they can't see timeline so they can be more productive
+- [Tweet-app](https://github.com/rhysd/tweet-app): desktop Twitter client that only lets one tweet and they can't see timeline so they can be more productive
 
 - [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
 
