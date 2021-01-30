@@ -100,6 +100,8 @@ Overview of alternative open source front-ends for popular internet platforms.
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
+- [alltube](https://github.com/Rudloff/alltube)
+
 ## Related
 
 - [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
