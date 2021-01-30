@@ -1,6 +1,14 @@
 # alternative-front-ends
 Overview of alternative open source front-ends for popular internet platforms.
 
+## Info
+* Do you know any other projects about front ends or alternatives to websites, apps, etc. that are not included in the overview yet?
+* Just create an issue and let me know. I'm always looking for new projects to add.
+
+## Overview
+
+--OLD--
+
 |Repository and service|Instance overview and Official public instance|Example
 |:---|:---|:---
 |[Invidious](https://github.com/iv-org/invidious) for YouTube.com|- [Invidious instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)<br>- Official instance: [https://invidio.us](https://invidio.us)|Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
