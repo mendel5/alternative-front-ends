@@ -98,6 +98,10 @@ Overview of alternative open source front-ends for popular internet platforms.
 - [hn-search](https://github.com/algolia/hn-search)
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
+## Related
+
 - [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
   - [Privacy Redirect - Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
   - [Privacy Redirect - Chrome Extension](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
+
+- [uBlock Origin](https://github.com/gorhill/uBlock)
