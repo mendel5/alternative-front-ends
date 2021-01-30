@@ -104,6 +104,10 @@ Overview of alternative open source front-ends for popular internet platforms.
 
 - [Vividl](https://github.com/Bluegrams/Vividl)
 
+- [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+
+- [tartube](https://github.com/axcore/tartube)
+
 ## Related
 
 - [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
