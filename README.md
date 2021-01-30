@@ -98,6 +98,8 @@ Overview of alternative open source front-ends for popular internet platforms.
 - [hn-search](https://github.com/algolia/hn-search)
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
 ## Related
 
 - [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
