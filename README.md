@@ -102,6 +102,8 @@ Overview of alternative open source front-ends for popular internet platforms.
 
 - [alltube](https://github.com/Rudloff/alltube)
 
+- [Vividl](https://github.com/Bluegrams/Vividl)
+
 ## Related
 
 - [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
