@@ -36,6 +36,7 @@ Overview of alternative open source front-ends for popular internet platforms.
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
 
 - [Teddit](https://codeberg.org/teddit/teddit) for Reddit.com
+  - [Github mirror repo](https://github.com/teddit-net/teddit)
   - Official instance: [teddit.net](https://teddit.net/)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Teddit](https://teddit.net/r/privacy)
 
