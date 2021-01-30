@@ -48,7 +48,7 @@ Overview of alternative open source front-ends for popular internet platforms.
 
 --To-do--
 
-* https://github.com/algolia/hn-search
-* https://github.com/SimonBrazell/privacy-redirect
-* https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/
-* https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb
+- [hn-search](https://github.com/algolia/hn-search)
+- [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
+  - [Privacy Redirect - Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
+  - [Privacy Redirect - Chrome Extension)(https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
