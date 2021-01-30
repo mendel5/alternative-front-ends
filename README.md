@@ -25,7 +25,8 @@ Overview of alternative open source front-ends for popular internet platforms.
   - Official instance: [nitter.net](https://nitter.net/)
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
-- [Bibliogram](https://sr.ht/~cadence/bibliogram/) for Instagram.com<br>(Originally on [Github](https://github.com/cloudrac3r/bibliogram))
+- [Bibliogram](https://sr.ht/~cadence/bibliogram/) for Instagram.com
+  - Originally on [Github](https://github.com/cloudrac3r/bibliogram)
   - [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) ([Old](https://github.com/cloudrac3r/bibliogram/wiki/Instances))
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
@@ -41,7 +42,7 @@ Overview of alternative open source front-ends for popular internet platforms.
 - [Whoogle Search](https://github.com/benbusby/whoogle-search) for Google Search
 
 - [Searx](https://github.com/searx/searx) as a metasearch engine
-  - [Searx instances](https://searx.space/))
+  - [Searx instances](https://searx.space/)
   - Example: [searx.privatenet.cf](https://searx.privatenet.cf/)
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook) for Facebook.com
