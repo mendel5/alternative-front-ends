@@ -28,20 +28,24 @@ Overview of alternative open source front-ends for popular internet platforms.
 --NEW--
 
 
-- [**CloudTube** ](https://git.sr.ht/~cadence/cloudtube)(a beautiful front-end for Invidious. If search doesn't work, change instance in settings. Right now, for me https://au.ytprivate.com works well)
-- **[Invuedious](https://github.com/bocchilorenzo/invuedious)** (another beautiful front-end for Invidious, built with Vue.js)
-- **[straw-viewer](https://github.com/trizen/straw-viewer)** (a fork of, and created by the same author of, youtube-viewer. Uses Invidious API)
-- **[invidious-viewer](https://github.com/git-bruh/invidious-viewer)** (similar to straw-viewer. Requires MPV player and libmpv.so, provided by Linux distro)
-- [**Top of Reddit** ](https://github.com/mgerb/top-of-reddit)(like HNTopLinks but for Reddit)
-- **[RedditClient](https://github.com/grey-r/RedditSharp)** (alternative front-end for Reddit, built with Angular)
-- [**Libreddit** ](https://libredd.it/)(an alternative front-end for Reddit. Themed around Reddit redesign.)
-- **[Updoot](https://github.com/adityam49/Updoot)** (Android, alternative front-end for Reddit)
-- **[eddrit](https://github.com/corenting/eddrit)** (alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette)
-- **[Shitter](https://github.com/nuclearfog/Shitter)** (Android, alternative front-end for Twitter, built with Java)
-- **[Harpy](https://github.com/robertodoering/harpy)** (Android, alternative front-end for Twitter, built with Flutter/Dart)
-- **[Twidere X](https://github.com/TwidereProject/TwidereX-Android)** (Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage)
-- **[Tweeterr](https://github.com/sherwyn11/Tweeterr)** (tweet from command line)
-- **[Tweet.app](https://github.com/rhysd/tweet-app)** (desktop Twitter client that only lets one tweet and they can't see timeline so they can be more productive)
-- [**Tweepy** ](https://github.com/tweepy/tweepy)(Twitter for Python)
-- **[SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook)** (Android, alternative front-end for Facebook, built with Java)
-- **[fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli)** (use Facebook Messenger from command line)
+- [CloudTube](https://git.sr.ht/~cadence/cloudtube)(a beautiful front-end for Invidious. If search doesn't work, change instance in settings. Right now, for me https://au.ytprivate.com works well)
+- [Invuedious](https://github.com/bocchilorenzo/invuedious) (another beautiful front-end for Invidious, built with Vue.js)
+- [straw-viewer](https://github.com/trizen/straw-viewer) (a fork of, and created by the same author of, youtube-viewer. Uses Invidious API)
+- [invidious-viewer](https://github.com/git-bruh/invidious-viewer) (similar to straw-viewer. Requires MPV player and libmpv.so, provided by Linux distro)
+- [Top of Reddit](https://github.com/mgerb/top-of-reddit) (like HNTopLinks but for Reddit)
+- [RedditClient](https://github.com/grey-r/RedditSharp) (alternative front-end for Reddit, built with Angular)
+- [Libreddit](https://libredd.it/)(an alternative front-end for Reddit. Themed around Reddit redesign.)
+- [Updoot](https://github.com/adityam49/Updoot) (Android, alternative front-end for Reddit)
+- [eddrit](https://github.com/corenting/eddrit) (alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette)
+- [Shitter](https://github.com/nuclearfog/Shitter) (Android, alternative front-end for Twitter, built with Java)
+- [Harpy](https://github.com/robertodoering/harpy) (Android, alternative front-end for Twitter, built with Flutter/Dart)
+- [Twidere X](https://github.com/TwidereProject/TwidereX-Android) (Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage)
+- [Tweeterr](https://github.com/sherwyn11/Tweeterr) (tweet from command line)
+- [Tweet.app](https://github.com/rhysd/tweet-app) (desktop Twitter client that only lets one tweet and they can't see timeline so they can be more productive)
+- [Tweepy](https://github.com/tweepy/tweepy)(Twitter for Python)
+- [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook) (Android, alternative front-end for Facebook, built with Java)
+- [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) (use Facebook Messenger from command line)
+
+--To-do--
+
+* https://github.com/algolia/hn-search
