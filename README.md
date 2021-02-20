@@ -21,19 +21,19 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): another beautiful front-end for Invidious, built with Vue.js
 
-- [straw-viewer](https://github.com/trizen/straw-viewer): a fork of, and created by the same author of, youtube-viewer. Uses Invidious API
+- [Straw-viewer](https://github.com/trizen/straw-viewer): a fork of, and created by the same author of, youtube-viewer. Uses Invidious API
 
-- [invidious-viewer](https://github.com/git-bruh/invidious-viewer): similar to straw-viewer. Requires MPV player and libmpv.so, provided by Linux distro
+- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): similar to straw-viewer. Requires MPV player and libmpv.so, provided by Linux distro
 
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+- [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
-- [alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
+- [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 
 - [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
 
-- [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+- [Youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
-- [tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+- [Tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 
 - [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
@@ -84,7 +84,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
-- [eddrit](https://github.com/corenting/eddrit): alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+- [Eddrit](https://github.com/corenting/eddrit): alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): like HNTopLinks but for Reddit
 
@@ -97,7 +97,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Facebook
 
-- [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): use Facebook Messenger from command line
+- [Fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): use Facebook Messenger from command line
 
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
@@ -108,7 +108,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de/)
 
-- [hn-search](https://github.com/algolia/hn-search) for Hacker News search
+- [HN-search](https://github.com/algolia/hn-search) for Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
 - [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
@@ -124,7 +124,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Related
 
-- [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
+- [Privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
   - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
