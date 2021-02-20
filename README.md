@@ -32,14 +32,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
 
-- [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
-  - Official instance: [xeddit.com](https://www.xeddit.com/)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
-
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
   - [Github mirror repo](https://github.com/teddit-net/teddit)
   - Official instance: [teddit.net](https://teddit.net/)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Teddit](https://teddit.net/r/privacy)
+
+- [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
+  - Official instance: [xeddit.com](https://www.xeddit.com/)
+  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
 
