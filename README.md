@@ -83,9 +83,9 @@ Overview of alternative open source front-ends for popular internet platforms (Y
 
 - [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
-- [Eddrit](https://github.com/corenting/eddrit): alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+- [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 
-- [Top of Reddit](https://github.com/mgerb/top-of-reddit): like HNTopLinks but for Reddit
+- [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
 ### Search
 
