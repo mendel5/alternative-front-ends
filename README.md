@@ -14,15 +14,15 @@ Overview of alternative open source front-ends for popular internet platforms (Y
   - Official instance: [https://invidio.us](https://invidio.us)
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
+- [CloudTube](https://git.sr.ht/~cadence/cloudtube): a front-end for Invidious
+
+- [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
+
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
-- [CloudTube](https://git.sr.ht/~cadence/cloudtube): a beautiful front-end for Invidious. If search doesn't work, change instance in settings.
+- [Straw-viewer](https://github.com/trizen/straw-viewer): A lightweight YouTube client for Linux, using the API of Invidious
 
-- [Invuedious](https://github.com/bocchilorenzo/invuedious): another beautiful front-end for Invidious, built with Vue.js
-
-- [Straw-viewer](https://github.com/trizen/straw-viewer): a fork of, and created by the same author of, youtube-viewer. Uses Invidious API
-
-- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): similar to straw-viewer. Requires MPV player and libmpv.so, provided by Linux distro
+- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
@@ -113,13 +113,6 @@ Overview of alternative open source front-ends for popular internet platforms (Y
 - [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
   - Official instance: [hntoplinks.com](http://www.hntoplinks.com/)
   - Example: [HNTopLinks of past month](http://www.hntoplinks.com/month)
-
-
---OLD--
-
---NEW--
-
---To-do--
 
 ## Related
 
