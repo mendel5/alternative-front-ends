@@ -1,5 +1,5 @@
 # alternative-front-ends
-Overview of alternative open source front-ends for popular internet platforms.
+Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube or Twitter)
 
 ## Info
 * Do you know any other projects about front ends or alternatives to websites, apps, etc. that are not included in the overview yet?
