@@ -46,7 +46,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Searx](https://github.com/searx/searx) as a metasearch engine
   - [Searx instances](https://searx.space/)
 
-- [Frost](https://github.com/AllanWang/Frost-for-Facebook) for Facebook.com
+- [Frost](https://github.com/AllanWang/Frost-for-Facebook) for Facebook.com (Android app only)
 
 - [HNTopLinks](https://github.com/eguller/hntoplinks) for Hacker News
   - Official instance: [hntoplinks.com](http://www.hntoplinks.com/)
