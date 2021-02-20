@@ -14,7 +14,7 @@ Overview of alternative open source front-ends for popular internet platforms (Y
   - Official instance: [https://invidio.us](https://invidio.us)
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
-- [CloudTube](https://git.sr.ht/~cadence/cloudtube): a front-end for Invidious
+- [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
 
@@ -51,9 +51,9 @@ Overview of alternative open source front-ends for popular internet platforms (Y
 
 - [Twidere X](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
 
-- [Tweeterr](https://github.com/sherwyn11/Tweeterr): tweet from command line
+- [Tweeterr](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
 
-- [Tweet-app](https://github.com/rhysd/tweet-app): desktop Twitter client that only lets one tweet and they can't see timeline so they can be more productive
+- [Tweet-app](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
 
 - [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
 
@@ -77,9 +77,9 @@ Overview of alternative open source front-ends for popular internet platforms (Y
   - Official instance: [xeddit.com](https://www.xeddit.com/)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
 
-- [RedditClient](https://github.com/grey-r/RedditSharp): alternative front-end for Reddit, built with Angular
+- [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
 
-- [Libreddit](https://libredd.it/): an alternative front-end for Reddit. Themed around Reddit redesign
+- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit redesign
 
 - [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
