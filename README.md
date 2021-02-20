@@ -16,7 +16,7 @@ Overview of alternative open source front-ends for popular internet platforms (Y
 
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
-- [CloudTube](https://git.sr.ht/~cadence/cloudtube): a beautiful front-end for Invidious. If search doesn't work, change instance in settings. Right now, for me https://au.ytprivate.com works well
+- [CloudTube](https://git.sr.ht/~cadence/cloudtube): a beautiful front-end for Invidious. If search doesn't work, change instance in settings.
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): another beautiful front-end for Invidious, built with Vue.js
 
