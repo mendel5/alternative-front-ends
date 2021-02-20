@@ -10,49 +10,49 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 --OLD--
 
-- [Invidious](https://github.com/iv-org/invidious) for YouTube.com
+- [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
   - [Invidious instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
   - Official instance: [https://invidio.us](https://invidio.us)
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
-- [Youtube-viewer](https://github.com/trizen/youtube-viewer) for YouTube.com
+- [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
-- [Yotter](https://github.com/ytorg/Yotter) for YouTube.com and Twitter.com
+- [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
   - Official instance: [yotter.xyz](https://yotter.xyz)
 
-- [Nitter](https://github.com/zedeus/nitter) for Twitter.com
+- [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end
   - [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
   - Official instance: [nitter.net](https://nitter.net/)
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
-- [Bibliogram](https://sr.ht/~cadence/bibliogram/) for Instagram.com
+- [Bibliogram](https://sr.ht/~cadence/bibliogram/): Bibliogram is an alternative front-end for Instagram
   - Originally on [Github](https://github.com/cloudrac3r/bibliogram)
   - [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) ([Old](https://github.com/cloudrac3r/bibliogram/wiki/Instances))
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
 
-- [Xeddit](https://github.com/ErlingMK/Xeddit) for Reddit.com
+- [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
   - Official instance: [xeddit.com](https://www.xeddit.com/)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
 
-- [Teddit](https://codeberg.org/teddit/teddit) for Reddit.com
+- [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
   - [Github mirror repo](https://github.com/teddit-net/teddit)
   - Official instance: [teddit.net](https://teddit.net/)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Teddit](https://teddit.net/r/privacy)
 
-- [Whoogle Search](https://github.com/benbusby/whoogle-search) for Google Search
+- [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
 
-- [Searx](https://github.com/searx/searx) as a metasearch engine
+- [Searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
   - [Searx instances](https://searx.space/)
 
-- [Frost](https://github.com/AllanWang/Frost-for-Facebook) for Facebook.com (Android app only)
+- [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
-- [HNTopLinks](https://github.com/eguller/hntoplinks) for Hacker News
+- [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
   - Official instance: [hntoplinks.com](http://www.hntoplinks.com/)
   - Example: [HNTopLinks of past month](http://www.hntoplinks.com/month)
 
-- [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb) for German public-service television broadcasters (e.g. ARD, ZDF)
+- [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de/)
 
 
