@@ -2,9 +2,9 @@
 Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube or Twitter)
 
 ## Call to Action
-* Do you know any other projects that are not included in the overview yet?
-* It could be about front ends or alternatives to websites, apps, etc.
-* Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new projects to add
+- Do you know any other projects that are not included in the overview yet?
+- It could be about front ends or alternatives to websites, apps, etc.
+- Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new projects to add
 
 ## Overview
 
@@ -112,7 +112,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ## Related
 
 - [privacy-redirect](https://github.com/SimonBrazell/privacy-redirect)
-  - [Privacy Redirect - Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
-  - [Privacy Redirect - Chrome Extension](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
+  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
+  - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 - [uBlock Origin](https://github.com/gorhill/uBlock)
+  - [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  - [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
