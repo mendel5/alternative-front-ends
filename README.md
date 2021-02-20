@@ -95,7 +95,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 --To-do--
 
-- [hn-search](https://github.com/algolia/hn-search)
+- [hn-search](https://github.com/algolia/hn-search) for Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
