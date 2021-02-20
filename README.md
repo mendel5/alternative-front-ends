@@ -15,6 +15,7 @@ Overview of alternative open source front-ends for popular internet platforms (Y
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
+  - Instance: [https://tube.cadence.moe](https://tube.cadence.moe/)
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
 
