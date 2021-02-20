@@ -1,9 +1,10 @@
 # alternative-front-ends
 Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube or Twitter)
 
-## Info
-* Do you know any other projects about front ends or alternatives to websites, apps, etc. that are not included in the overview yet?
-* Just create an issue and let me know. I'm always looking for new projects to add.
+## Call to Action
+* Do you know any other projects that are not included in the overview yet?
+* It could be about front ends or alternatives to websites, apps, etc.
+* Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new projects to add
 
 ## Overview
 
