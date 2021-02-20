@@ -98,15 +98,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [hn-search](https://github.com/algolia/hn-search) for Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
-- [alltube](https://github.com/Rudloff/alltube)
+- [alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 
-- [Vividl](https://github.com/Bluegrams/Vividl)
+- [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
 
-- [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui)
+- [youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
-- [tartube](https://github.com/axcore/tartube)
+- [tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 
 ## Related
 
