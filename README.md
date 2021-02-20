@@ -45,7 +45,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Searx](https://github.com/searx/searx) as a metasearch engine
   - [Searx instances](https://searx.space/)
-  - Example: [searx.privatenet.cf](https://searx.privatenet.cf/)
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook) for Facebook.com
 
