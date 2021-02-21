@@ -11,7 +11,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
   - [Invidious instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
-  - Official instance: [https://invidio.us](https://invidio.us)
+  - Official instance: [https://invidio.us](https://invidio.us), will be moved to: [https://invidious.io](https://invidious.io/)
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
