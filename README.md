@@ -25,6 +25,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
+
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
 - [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
