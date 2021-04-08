@@ -27,6 +27,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
 
+- [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design.
+
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
 - [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
