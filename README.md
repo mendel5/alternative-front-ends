@@ -31,11 +31,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
+- [Youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+
+- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl.
+
 - [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 
 - [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
-
-- [Youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
 - [Tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 
