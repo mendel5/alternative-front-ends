@@ -118,7 +118,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de/)
 
-- [HN-search](https://github.com/algolia/hn-search): Hacker News search
+- [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
 - [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
