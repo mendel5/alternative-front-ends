@@ -104,7 +104,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
 
-- [Searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
+- [Searx](https://github.com/searx/searx): Privacy-respecting meta-search engine
   - [Searx instances](https://searx.space/)
 
 ### Facebook
