@@ -120,7 +120,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de/)
 
-- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Alternative to Pastebin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
