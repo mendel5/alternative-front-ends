@@ -151,4 +151,4 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
-- [Matrix.org: Synapse](https://github.com/matrix-org/synapse): Matrix reference homeserver. See also [matrix.org](https://matrix.org/).
+- [Matrix.org: Synapse](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org/).
