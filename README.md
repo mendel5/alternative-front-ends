@@ -18,6 +18,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Instance: [https://tube.cadence.moe](https://tube.cadence.moe/)
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
+  - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious/)
 
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
