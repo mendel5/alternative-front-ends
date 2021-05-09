@@ -133,6 +133,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing.
 
+- [hedgedoc](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown.
+
+- [etherpad-lite](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor.
+
+- [gitea](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service.
+
 ## Related
 
 - [Privacy-redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
