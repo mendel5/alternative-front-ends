@@ -79,6 +79,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Reddit
 
+- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit redesign
+  - Official instance: [libredd.it](https://libredd.it)
+
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
   - [Github mirror repo](https://github.com/teddit-net/teddit)
   - Official instance: [teddit.net](https://teddit.net/)
@@ -89,8 +92,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
 
 - [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-
-- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit redesign
 
 - [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
