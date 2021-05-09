@@ -139,3 +139,5 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
+
+- [Matrix.org: Synapse](https://github.com/matrix-org/synapse): Matrix reference homeserver. See also [matrix.org](https://matrix.org/).
