@@ -129,6 +129,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [hntoplinks.com](http://www.hntoplinks.com/)
   - Example: [HNTopLinks of past month](http://www.hntoplinks.com/month)
 
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
+
+- [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing.
+
 ## Related
 
 - [Privacy-redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
