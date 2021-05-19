@@ -69,6 +69,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
 
+- [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android and iOS
 
 ### Instagram
 
