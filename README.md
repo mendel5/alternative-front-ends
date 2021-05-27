@@ -7,9 +7,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Contents
 - [YouTube](#youtube)
+- [Twitter](#twitter)
+- [Instagram](#instagram)
+- [Reddit](#reddit)
+- [Search](#search)
+- [Facebook](#facebook)
+- [Other](#other)
+- [Related](#related)
 
 ## Overview
-
 ### YouTube
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
