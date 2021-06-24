@@ -10,7 +10,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Twitter](#twitter)
 - [Instagram](#instagram)
 - [Reddit](#reddit)
-- [Search](#search-engines)
+- [Search Engines](#search-engines)
 - [Facebook](#facebook)
 - [Other](#other)
 - [Related](#related)
