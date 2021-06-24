@@ -10,7 +10,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Twitter](#twitter)
 - [Instagram](#instagram)
 - [Reddit](#reddit)
-- [Search](#search)
+- [Search](#search-engines)
 - [Facebook](#facebook)
 - [Other](#other)
 - [Related](#related)
@@ -112,7 +112,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
-### Search
+### Search Engines
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
 
