@@ -90,6 +90,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
 
+- [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
+
 ### Reddit
 
 - [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit redesign
