@@ -116,6 +116,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
+- [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
+
 ### Search Engines
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
