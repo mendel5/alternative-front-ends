@@ -23,7 +23,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://invidio.us](https://invidio.us), will be moved to: [https://invidious.io](https://invidious.io/)
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube): An open source YouTube app for privacy on Windows, Mac and Linux
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
   - Instance: [https://tube.cadence.moe](https://tube.cadence.moe/)
