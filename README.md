@@ -59,6 +59,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ViewTube](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
+- [youtube-local](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
+
 - [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
   - Official instance: [yotter.xyz](https://yotter.xyz)
