@@ -61,7 +61,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [youtube-local](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
 
-- [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript
+- [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local](https://github.com/user234683/youtube-local))
 
 - [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
