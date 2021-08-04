@@ -126,6 +126,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
 
+- [Stealth](https://gitlab.com/cosmosapps/stealth):
+    Account-less client for Reddit on Android
+  - Available on [F-Droid](https://f-droid.org/packages/com.cosmos.unreddit/)
+
+- [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+  - Available on [F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)
+- [Dawn](https://github.com/Tunous/Dawn)
+  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank/)
+
 ### Search Engines
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
