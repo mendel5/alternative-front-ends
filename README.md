@@ -14,8 +14,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Facebook](#facebook)
 - [Other](#other)
 - [Related](#related)
+- [Notes](#notes)
 
 ## Overview
+
 ### YouTube
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
@@ -178,3 +180,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Matrix.org's Synapse](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org/).
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+
+## Notes
+
+General notes go here
