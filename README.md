@@ -136,6 +136,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank/)
   - Forked from [Dank](https://github.com/saket/Dank)
 
+### Spotify
+
+- [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
+
 ### Search Engines
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
