@@ -197,8 +197,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## About this repository
 
-This overview originally included three projects (Invidious, Bibliogram and Nitter) and was therefore named `alternative front-ends`. As more projects have been added to this overview, the listed projects partially left the scope of alternative frontends.
+This overview originally included three projects: Invidious, Bibliogram and Nitter. Therefore it was named `alternative front-ends`. As more projects have been added to the repository, the listed projects partially left the scope of *alternative front-ends*.
 
-For example, youtube-dl is not a front end, but can be generally described as an open source project that interacts with the internet platform Youtube.
+For example, `youtube-dl` is not a front-end, but can be generally described as an open source project that interacts with the internet platform Youtube.
 
-Therefore the name `alternative front-ends` does not capture the full scope of the listed projects. Maybe this repository will be renamed in the future to better reflect the larger scope.
+Therefore the name `alternative front-ends` does not capture the full scope of the listed projects anymore. Maybe this repository will be renamed in the future to better reflect the larger scope.
