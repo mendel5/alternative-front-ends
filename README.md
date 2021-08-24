@@ -14,7 +14,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Facebook](#facebook)
 - [Other](#other)
 - [Related](#related)
-- [Notes](#notes)
+- [About this repository](#about-this-repository)
 
 ## Overview
 
@@ -195,7 +195,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
-## Notes
+## About this repository
 
 This overview originally included three projects (Invidious, Bibliogram and Nitter) and was therefore named `alternative front-ends`. As more projects have been added to this overview, the listed projects partially left the scope of alternative frontends.
 
