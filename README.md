@@ -166,7 +166,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
 - [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
-  - Official instance: [hntoplinks.com](http://www.hntoplinks.com/)
+  - Official instance: [hntoplinks.com](http://www.hntoplinks.com/) (appears to be offline)
   - Example: [HNTopLinks of past month](http://www.hntoplinks.com/month)
 
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
