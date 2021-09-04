@@ -138,6 +138,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank/)
   - Forked from [Dank](https://github.com/saket/Dank)
 
+- [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
+  - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide/)
+
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
