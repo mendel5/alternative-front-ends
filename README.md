@@ -67,6 +67,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+
 - [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
   - Official instance: [yotter.xyz](https://yotter.xyz)
