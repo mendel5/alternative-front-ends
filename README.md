@@ -98,7 +98,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Bibliogram](https://sr.ht/~cadence/bibliogram/): Bibliogram is an alternative front-end for Instagram
   - Originally on [Github](https://github.com/cloudrac3r/bibliogram)
-  - [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) ([Old](https://github.com/cloudrac3r/bibliogram/wiki/Instances))
+  - [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
 
