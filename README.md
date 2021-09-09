@@ -208,4 +208,4 @@ This overview originally included three projects: Invidious, Bibliogram and Nitt
 
 For example, `youtube-dl` is not a front-end, but can be generally described as an open source project that interacts with the internet platform Youtube.
 
-Therefore the name `alternative front-ends` does not capture the full scope of the listed projects anymore. Maybe this repository will be renamed in the future to better reflect the larger scope.
+Therefore the name `alternative front-ends` does not capture the full scope of the listed projects anymore. Maybe this repository will be renamed in the future to better reflect the larger scope. A possible name might be `open-source-alternatives` or something similar.
