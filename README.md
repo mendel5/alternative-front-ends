@@ -12,6 +12,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Reddit](#reddit)
 - [Search Engines](#search-engines)
 - [Facebook](#facebook)
+- [Hacker News](#hacker-news)
 - [Other](#other)
 - [Related](#related)
 - [About this repository](#about-this-repository)
@@ -159,6 +160,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+
+### Hacker News
+- [Haxplore](https://haxplore.com): Hacker News client with a fully different user experience
 
 ### Other
 
