@@ -141,6 +141,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide/)
 
+### Imgur
+- [Imgin](https://git.voidnet.tech/kev/imgin): Minimal Imgur front end
+  - Official instance: https://imgin.voidnet.tech
+  - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
+  - Same album on Imgin: https://imgin.voidnet.tech/a/GD6p5Fi
+
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
