@@ -11,6 +11,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Instagram](#instagram)
 - [Reddit](#reddit)
 - [Imgur](#imgur)
+- [Spotify](#spotify)
 - [Search Engines](#search-engines)
 - [Facebook](#facebook)
 - [Other](#other)
