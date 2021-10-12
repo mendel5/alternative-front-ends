@@ -179,6 +179,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
 
+- [Hackerweb](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
+  - About Hackerweb: https://hackerwebapp.com
+  - Official instance: https://hackerweb.app
+
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing.
