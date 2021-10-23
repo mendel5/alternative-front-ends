@@ -204,6 +204,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
 
+- [Scribe](https://scribe.rip): An alterntive frontend to Medium.com
+
 ## Related
 
 - [Privacy-redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
