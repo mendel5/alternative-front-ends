@@ -204,7 +204,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
 
-- [Scribe](https://scribe.rip): An alterntive frontend to Medium.com
+- [Scribe](https://sr.ht/~edwardloveall/scribe/): Alternative front-end to Medium.com
 
 ## Related
 
