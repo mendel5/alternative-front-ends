@@ -227,6 +227,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
+- [Outline.com](https://outline.com): Outline is a free service for reading and annotating news articles.
+  - Note: The source code of Outline.com is not available as free/open-source license.
+
 ## About this repository
 
 This overview originally included three projects: Invidious, Bibliogram and Nitter. Therefore it was named `alternative front-ends`. As more projects have been added to the repository, the listed projects partially left the scope of *alternative front-ends*.
