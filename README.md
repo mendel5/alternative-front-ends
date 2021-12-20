@@ -88,8 +88,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Twitter
 
 - [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end
-  - [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
-  - Official instance: [nitter.net](https://nitter.net/)
+  - Official instance: [nitter.net](https://nitter.net)
+  - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
 - [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
@@ -109,10 +109,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Instagram
 
 - [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
-  - Originally on [Github](https://github.com/cloudrac3r/bibliogram)
-  - [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
+  - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
+  - Originally hosted on [Github](https://github.com/cloudrac3r/bibliogram)
 
 - [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
   - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
@@ -185,6 +185,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Search Engines
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
+  - Public instances: https://github.com/benbusby/whoogle-search#public-instances
 
 - [Searx](https://github.com/searx/searx): Privacy-respecting meta-search engine
   - [Searx instances](https://searx.space)
