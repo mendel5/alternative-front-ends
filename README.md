@@ -30,6 +30,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Public Invidious Instances (Docs): https://docs.invidious.io/Invidious-Instances.md
   - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
   - Invidious instances API: https://api.invidious.io
+  - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design
   - Example instance: https://piped.kavin.rocks
