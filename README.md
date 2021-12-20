@@ -193,7 +193,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Discord
 
-- [Ripcord](https://cancel.fm/ripcord/): A desktop client for Discord/Slack and other group chat services
+- [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 ### Other
 
