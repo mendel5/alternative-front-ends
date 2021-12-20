@@ -28,6 +28,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://invidio.us](https://invidio.us), will be moved to: [https://invidious.io](https://invidious.io/)
   - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
 
+- [Youtube Vanced](https://github.com/YTVanced): Youtube replacement app for the Android platform: YouTube Vanced is the stock Android YouTube app, but better. It includes adblocking, true amoled dark mode and a lot more. Use the Vanced Manager to install YouTube Vanced with ease.
+  - Official website with install instructions: https://vancedapp.com
+
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
@@ -75,8 +78,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
   - Official instance: [yotter.xyz](https://yotter.xyz)
-
-- [Youtube Vanced](https://vancedapp.com/): a Youtube replacement app for the android platform. It performs the same function as the existing youtube app, but without the adverts.
 
 ### Twitter
 
