@@ -33,9 +33,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design
   - Example instance: https://piped.kavin.rocks
 
-- [Youtube Vanced](https://github.com/YTVanced): Youtube replacement app for the Android platform: YouTube Vanced is the stock Android YouTube app, but better. It includes adblocking, true amoled dark mode and a lot more. Use the Vanced Manager to install YouTube Vanced with ease.
-  - Official website with install instructions: https://vancedapp.com
-
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
@@ -248,7 +245,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
 - [Outline.com](https://outline.com): Outline is a free service for reading and annotating news articles.
-  - Note: The source code of Outline.com is not available as free/open-source license.
+  - Note: The source code of Outline.com is not available under a free/open-source license.
+
+- [Youtube Vanced](https://github.com/YTVanced): Youtube replacement app for the Android platform: YouTube Vanced is the stock Android YouTube app, but better. It includes adblocking, true amoled dark mode and a lot more. Use the Vanced Manager to install YouTube Vanced with ease.
+  - Official website with install instructions: https://vancedapp.com
+  - Note: The source code of Youtube Vanced is not available under a free/open-source license.
+  - For an explanation about the origin of Youtube Vanced see here: https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/
 
 ## About this repository
 
