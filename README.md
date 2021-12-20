@@ -76,6 +76,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
   - Official instance: [yotter.xyz](https://yotter.xyz)
 
+- [Youtube Vanced](https://vancedapp.com/): a Youtube replacement app for the android platform. It performs the same function as the existing youtube app, but without the adverts.
+
 ### Twitter
 
 - [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end
