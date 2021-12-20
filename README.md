@@ -161,6 +161,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
   - Same album on Imgin: https://imgin.voidnet.tech/a/GD6p5Fi
 
+- [rimgu](https://codeberg.org/3np/rimgu): rimgu is a self-hosted alternative frontend/ proxy for Imgur
+
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
