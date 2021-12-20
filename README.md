@@ -159,7 +159,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
-- [Spotiqueue](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client, with Guile Scheme scriptability
+
+- [Spotiqueue](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
 
 ### Search Engines
 
