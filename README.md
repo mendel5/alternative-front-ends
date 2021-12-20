@@ -15,6 +15,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Search Engines](#search-engines)
 - [Facebook](#facebook)
 - [Apple AirPlay](#apple-airplay)
+- [Discord](#discord)
 - [Other](#other)
 - [Related](#related)
 - [About this repository](#about-this-repository)
@@ -189,6 +190,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [RPiPlay](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 
 - [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
+
+### Discord
+
+- [Ripcord](https://cancel.fm/ripcord/): A desktop client for Discord/Slack and other group chat services
+- [Gtkcord](https://github.com/diamondburned/gtkcord3/): A stylish GTK3 Discord frontend
 
 ### Other
 
