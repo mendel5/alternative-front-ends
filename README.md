@@ -171,6 +171,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Spotiqueue](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
 
+### Discord
+
+- [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+
+### Medium
+
+- [Scribe](https://sr.ht/~edwardloveall/scribe/): Alternative front-end to Medium.com
+  - Official website: https://scribe.rip
+
 ### Search Engines
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
@@ -191,16 +200,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 
-### Discord
-
-- [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
-
 ### Other
 
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de/)
 
-- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
@@ -211,22 +216,19 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - About Hackerweb: https://hackerwebapp.com
   - Official instance: https://hackerweb.app
 
-- [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
-- [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing.
+- [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
 
-- [hedgedoc](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown.
+- [hedgedoc](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
 
-- [etherpad-lite](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor.
+- [etherpad-lite](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
 
-- [gitea](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service.
+- [gitea](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
 
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
 - [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
-
-- [Scribe](https://sr.ht/~edwardloveall/scribe/): Alternative front-end to Medium.com
-  - Official website: https://scribe.rip
 
 ## Related
 
