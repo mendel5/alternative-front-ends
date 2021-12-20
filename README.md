@@ -108,28 +108,30 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Instagram
 
-- [Bibliogram](https://sr.ht/~cadence/bibliogram/): Bibliogram is an alternative front-end for Instagram
+- [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
   - Originally on [Github](https://github.com/cloudrac3r/bibliogram)
   - [Bibliogram instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
-  - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt/) and [Bibliogram](https://bibliogram.art/u/troyhunt)
+  - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
 
 - [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
   - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
 
 ### Reddit
 
+- [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
+  - Official instance: [teddit.net](https://teddit.net)
+  - Public instances: https://github.com/teddit-net/teddit#instances
+  - [Github mirror repository](https://github.com/teddit-net/teddit)
+  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
+
 - [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit redesign
   - Official instance: [libredd.it](https://libredd.it)
-
-- [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
-  - [Github mirror repo](https://github.com/teddit-net/teddit)
-  - Official instance: [teddit.net](https://teddit.net/)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Teddit](https://teddit.net/r/privacy)
+  - Public instances: https://github.com/spikecodes/libreddit#instances
 
 - [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
-  - Official instance: [xeddit.com](https://www.xeddit.com/)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy/) and [Xeddit](https://www.xeddit.com/r/privacy/)
+  - Official instance: [xeddit.com](https://www.xeddit.com)
+  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy/)
 
 - [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
 
@@ -142,17 +144,17 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
 
 - [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
 
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
-  - Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)
+  - Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 
 - [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
-  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank/)
+  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
   - Forked from [Dank](https://github.com/saket/Dank)
 
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
-  - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide/)
+  - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
 
 - [junipf-reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
   - Official instance: [https://jpf-reddit.netlify.app](https://jpf-reddit.netlify.app)
@@ -177,7 +179,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Medium
 
-- [Scribe](https://sr.ht/~edwardloveall/scribe/): Alternative front-end to Medium.com
+- [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
 ### Search Engines
@@ -185,7 +187,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
 
 - [Searx](https://github.com/searx/searx): Privacy-respecting meta-search engine
-  - [Searx instances](https://searx.space/)
+  - [Searx instances](https://searx.space)
 
 ### Facebook
 
@@ -203,7 +205,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Other
 
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
-  - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de/)
+  - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
 
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
