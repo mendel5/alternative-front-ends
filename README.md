@@ -26,9 +26,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### YouTube
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
-  - [Invidious instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
-  - Official instance: [https://invidio.us](https://invidio.us), will be moved to: [https://invidious.io](https://invidious.io/)
-  - Example: Troy Hunt on [Youtube](https://www.youtube.com/user/troyhuntdotcom/videos) and [Invidious](https://invidio.us/channel/troyhuntdotcom)
+  - Home page: https://invidious.io
+  - Public Invidious Instances (Docs): https://docs.invidious.io/Invidious-Instances.md
+  - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
+  - Invidious instances API: https://api.invidious.io
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design
   - Example instance: https://piped.kavin.rocks
@@ -36,7 +37,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
-  - Instance: [https://tube.cadence.moe](https://tube.cadence.moe/)
+  - Example instance: [https://tube.cadence.moe](https://tube.cadence.moe/)
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
   - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious/)
