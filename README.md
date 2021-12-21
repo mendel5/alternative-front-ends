@@ -14,7 +14,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Spotify](#spotify)
 - [Discord](#discord)
 - [Medium](#medium)
-- [Search Engines](#search-engines)
+- [Google Search](#google-search)
 - [Facebook](#facebook)
 - [Apple AirPlay](#apple-airplay)
 - [Other](#other)
@@ -182,7 +182,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
-### Search Engines
+### Google Search
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
   - Public instances: https://github.com/benbusby/whoogle-search#public-instances
