@@ -106,6 +106,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android and iOS
 
+- [Kizie](https://kizie.co): Web, alternative front-end for Twitter, build with Next.js and TailwindCSS
+
 ### Instagram
 
 - [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
