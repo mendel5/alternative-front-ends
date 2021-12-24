@@ -40,10 +40,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
-  - Example instance: [https://tube.cadence.moe](https://tube.cadence.moe/)
+  - Example instance: [https://tube.cadence.moe](https://tube.cadence.moe)
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
-  - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious/)
+  - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
 
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
@@ -133,7 +133,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
   - Official instance: [xeddit.com](https://www.xeddit.com)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy/)
+  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
 
 - [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
 
@@ -195,22 +195,22 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Google Translate
 
-- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available.
-  - Official instance: [lingva.ml](https://lingva.ml/)
+- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+  - Official instance: [lingva.ml](https://lingva.ml)
   - Public instances: https://github.com/TheDavidDelta/lingva-translate#instances
 
-- [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate/): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
-  - Official instance: [simplytranslate.org](https://simplytranslate.org/)
+- [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
+  - Official instance: [simplytranslate.org](https://simplytranslate.org)
   - Home page and public instances: https://simple-web.org/projects/simplytranslate.html
 
 - [SimplyTranslate Mobile](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 
 - [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate/)
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
 
-- [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client of DeepL.
-  - Available on [F-Droid](https://f-droid.org/packages/com.example.deeplviewer)
+- [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
 ### Facebook
 
@@ -259,7 +259,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ## Redirection
 
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
-  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
+  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
@@ -269,12 +269,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ## Related projects
 
 - [uBlock Origin](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
-  - [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  - [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
   - [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
 
-- [Matrix.org's Synapse](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org/).
+- [Matrix.org's Synapse](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
