@@ -162,6 +162,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://jpf-reddit.netlify.app](https://jpf-reddit.netlify.app)
 
 ### Imgur
+
 - [Imgin](https://git.voidnet.tech/kev/imgin): Minimal Imgur front end
   - Official instance: https://imgin.voidnet.tech
   - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
@@ -220,6 +221,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Apple AirPlay
+
 - [RPiPlay](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 
 - [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
@@ -262,7 +264,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
-- [UntrackMe](https://framagit.org/tom79/nitterizeme): Android, UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them.
+- [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
 
 ## Related projects
 
