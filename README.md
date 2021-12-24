@@ -17,6 +17,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Search](#google-search)
 - [Facebook](#facebook)
 - [Apple AirPlay](#apple-airplay)
+- [Google Translate](#google-translate)
 - [Other](#other)
 - [Related](#related)
 - [About this repository](#about-this-repository)
@@ -202,6 +203,25 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [RPiPlay](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 
 - [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
+
+### Google Translate
+
+- [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available.
+  - Official instance: [lingva.ml](https://lingva.ml/)
+  - Public instances: https://github.com/TheDavidDelta/lingva-translate#instances
+
+- [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate/): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
+  - Official instance: [simplytranslate.org](https://simplytranslate.org/)
+  - Home page and public instances: https://simple-web.org/projects/simplytranslate.html
+
+- [SimplyTranslate Mobile](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+
+- [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate/)
+
+- [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client of DeepL.
+  - Available on [F-Droid](https://f-droid.org/packages/com.example.deeplviewer)
 
 ### Other
 
