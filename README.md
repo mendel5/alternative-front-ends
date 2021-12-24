@@ -8,8 +8,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ## Contents
 - [YouTube](#youtube)
 - [Twitter](#twitter)
-- [Instagram](#instagram)
 - [Reddit](#reddit)
+- [Instagram](#instagram)
 - [Imgur](#imgur)
 - [Spotify](#spotify)
 - [Discord](#discord)
@@ -29,18 +29,20 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
   - Home page: https://invidious.io
-  - Public Invidious Instances (Docs): https://docs.invidious.io/Invidious-Instances.md
+  - List of public Invidious instances (Docs): https://docs.invidious.io/Invidious-Instances.md
   - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
   - Invidious instances API: https://api.invidious.io
   - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design
   - Example instance: https://piped.kavin.rocks
-
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+  - Installation guide for self-hosting: https://piped-docs.kavin.rocks/docs/self-hosting/
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
-  - Example instance: [https://tube.cadence.moe](https://tube.cadence.moe)
+  - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
+  - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
+
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
   - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
@@ -114,17 +116,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android and iOS
 
-### Instagram
-
-- [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
-  - Official instance: [https://bibliogram.art](https://bibliogram.art)
-  - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
-  - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
-  - Originally hosted on [Github](https://github.com/cloudrac3r/bibliogram)
-
-- [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
-  - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
-
 ### Reddit
 
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
@@ -166,6 +157,17 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [junipf-reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
   - Official instance: [https://jpf-reddit.netlify.app](https://jpf-reddit.netlify.app)
+
+### Instagram
+
+- [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
+  - Official instance: [https://bibliogram.art](https://bibliogram.art)
+  - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
+  - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
+  - Originally hosted on [Github](https://github.com/cloudrac3r/bibliogram)
+
+- [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
+  - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
 
 ### Imgur
 
