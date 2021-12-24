@@ -182,6 +182,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Spotiqueue](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
 
+- [spot](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+
 ### Discord
 
 - [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
