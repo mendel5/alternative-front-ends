@@ -192,19 +192,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Searx](https://github.com/searx/searx): Privacy-respecting meta-search engine
   - [Searx instances](https://searx.space)
 
-### Facebook
-
-- [Fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use Facebook Messenger from command line
-
-- [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-
-- [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
-
-### Apple AirPlay
-- [RPiPlay](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
-
-- [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
-
 ### Google Translate
 
 - [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available.
@@ -223,6 +210,19 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client of DeepL.
   - Available on [F-Droid](https://f-droid.org/packages/com.example.deeplviewer)
+
+### Facebook
+
+- [Fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use Facebook Messenger from command line
+
+- [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
+
+- [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+
+### Apple AirPlay
+- [RPiPlay](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
+
+- [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 
 ### Other
 
@@ -256,11 +256,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Redirection
 
-- [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
-
-- [Privacy-redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
   - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
+
+- [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
 - [UntrackMe](https://framagit.org/tom79/nitterizeme): Android, UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them.
 
