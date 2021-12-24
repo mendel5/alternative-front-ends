@@ -15,12 +15,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Discord](#discord)
 - [Medium](#medium)
 - [Google Search](#google-search)
+- [Google Translate](#google-translate)
 - [Facebook](#facebook)
 - [Apple AirPlay](#apple-airplay)
-- [Google Translate](#google-translate)
-- [Other](#other)
+- [Other services](#other-services)
 - [Redirection](#redirection)
-- [Related](#related)
+- [Related projects](#related-projects)
 - [About this repository](#about-this-repository)
 
 ## Overview
@@ -224,7 +224,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 
-### Other
+### Other services
 
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
@@ -264,7 +264,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [UntrackMe](https://framagit.org/tom79/nitterizeme): Android, UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them.
 
-## Related
+## Related projects
 
 - [uBlock Origin](https://github.com/gorhill/uBlock): An efficient blocker for Chromium and Firefox. Fast and lean
   - [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
