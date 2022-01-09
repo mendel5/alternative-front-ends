@@ -255,6 +255,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Hckrnws](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
   - Official instance: https://www.hckrnws.com
 
+- [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
+  - Available to download on the [App Store](https://itunes.apple.com/gb/app/hackers-hacker-news-reading/id603503901?at=11l4G8&ct=github-afe)
+
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
