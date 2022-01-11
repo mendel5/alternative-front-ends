@@ -10,6 +10,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Twitter](#twitter)
 - [Reddit](#reddit)
 - [Instagram](#instagram)
+- [TikTok](#tiktok)
 - [Imgur](#imgur)
 - [Spotify](#spotify)
 - [Discord](#discord)
@@ -169,6 +170,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
   - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
+
+### TikTok
+
+- [tiktok-alt-frontend](https://github.com/pablouser1/tiktok-alt-frontend): Open source alternative frontend for TikTok made with PHP
+  - Official instance: https://tiktok-alt-frontend.herokuapp.com
 
 ### Imgur
 
