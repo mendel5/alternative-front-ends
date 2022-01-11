@@ -18,6 +18,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Translate](#google-translate)
 - [Facebook](#facebook)
 - [Apple AirPlay](#apple-airplay)
+- [Hacker News](#hacker-news)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -236,12 +237,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [air-pi-play](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 
-### Other services
-
-- [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
-  - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
-
-- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
+### Hacker News
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
@@ -256,7 +252,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: https://www.hckrnws.com
 
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
-  - Available to download on the [App Store](https://itunes.apple.com/gb/app/hackers-hacker-news-reading/id603503901?at=11l4G8&ct=github-afe)
+  - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
+
+### Other services
+
+- [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
+  - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
+
+- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
