@@ -51,7 +51,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
-- [Straw-viewer](https://github.com/trizen/straw-viewer): A lightweight YouTube client for Linux, using the API of Invidious
+- [pipe-viewer](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
 
 - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
