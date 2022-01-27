@@ -37,7 +37,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design
-  - Example instance: https://piped.kavin.rocks
+  - Official instance: https://piped.kavin.rocks
+  - List of public instances: https://github.com/TeamPiped/Piped/wiki/Instances
   - Installation guide for self-hosting: https://piped-docs.kavin.rocks/docs/self-hosting/
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
