@@ -98,6 +98,19 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
+- [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader.
+
+- [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for android.
+
+- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Audiotube is a client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones.
+
+- [smtube](http://smplayer.sourceforge.net/smtube.php): Stand-alone YouTube video player
+
+- [mps-youtube](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
+
+- [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords.
+
+
 ### Twitter
 
 - [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end
