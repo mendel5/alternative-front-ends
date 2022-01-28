@@ -62,7 +62,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
-- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl.
+- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
 
 - [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 
@@ -88,9 +88,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
   - Official instance: [yotter.xyz](https://yotter.xyz)
 
-- [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS.
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
 
-- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV".
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
 
 - [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
@@ -98,17 +98,21 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
-- [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader.
+- [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
 
-- [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for android.
+- [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
 
-- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Audiotube is a client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones.
+- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): AudioTube is a client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
-- [smtube](http://smplayer.sourceforge.net/smtube.php): Stand-alone YouTube video player
+- [smtube](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
+  - Website: https://www.smtube.org
+  - SMTube is part of SMPlayer
+  - SMPlayer website: https://www.smplayer.info
+  - SMPlayer repository: https://github.com/smplayer-dev/smplayer
 
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
 
-- [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords.
+- [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
 
 ### Twitter
