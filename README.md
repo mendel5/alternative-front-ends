@@ -29,19 +29,18 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### YouTube
 
-- [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
+- [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
-  - List of public Invidious instances (Docs): https://docs.invidious.io/Invidious-Instances.md
   - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
   - Invidious instances API: https://api.invidious.io
   - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
 
-- [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design
+- [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
   - Official instance: https://piped.kavin.rocks
   - List of public instances: https://github.com/TeamPiped/Piped/wiki/Instances
-  - Installation guide for self-hosting: https://piped-docs.kavin.rocks/docs/self-hosting/
+  - Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md
 
-- [CloudTube](https://git.sr.ht/~cadence/cloudtube): A front-end for Invidious
+- [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
   - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
 
@@ -113,7 +112,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Twitter
 
-- [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end
+- [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
   - Official instance: [nitter.net](https://nitter.net)
   - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
@@ -134,13 +133,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Reddit
 
-- [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy
+- [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
   - Official instance: [teddit.net](https://teddit.net)
   - Public instances: https://github.com/teddit-net/teddit#instances
   - [Github mirror repository](https://github.com/teddit-net/teddit)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 
-- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit redesign
+- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
   - Official instance: [libredd.it](https://libredd.it)
   - Public instances: https://github.com/spikecodes/libreddit#instances
 
@@ -227,8 +226,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
   - Public instances: https://github.com/benbusby/whoogle-search#public-instances
 
-- [Searx](https://github.com/searx/searx): Privacy-respecting meta-search engine
-  - [Searx instances](https://searx.space)
+- [Searx](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
+  - Public instances: https://searx.space
 
 ### Google Translate
 
