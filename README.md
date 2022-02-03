@@ -171,8 +171,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
 
-- [junipf-reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
+- [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
   - Official instance: [https://jpf-reddit.netlify.app](https://jpf-reddit.netlify.app)
+
+- [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
+  - Official instance: https://www.troddit.com
 
 ### Instagram
 
