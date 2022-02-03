@@ -84,10 +84,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 
-- [Yotter](https://github.com/ytorg/Yotter): Youtube and Twitter with privacy
-  - [Yotter instances](https://github.com/ytorg/Yotter#public-instances)
-  - Official instance: [yotter.xyz](https://yotter.xyz)
-
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
 
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
