@@ -186,6 +186,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
   - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
+  - Fork of Barinsta: https://codeberg.org/avalos/barinsta - "This fork is unofficial unless community decides otherwise. C&D letters will be ignored."
 
 ### TikTok
 
