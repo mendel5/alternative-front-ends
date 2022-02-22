@@ -109,6 +109,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
+- [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock.
 
 ### Twitter
 
