@@ -199,7 +199,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
   - Website: https://i.bcow.xyz/
 
-- [Rimgu](https://codeberg.org/3np/rimgu): rimgu is a self-hosted alternative frontend/ proxy for Imgur
+- [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
 
 - [Imgin](https://git.voidnet.tech/kev/imgin): Minimal Imgur front end
   - Official instance: https://imgin.voidnet.tech
