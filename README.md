@@ -99,10 +99,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader.
 
-- [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for android.
-
-- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Audiotube is a client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones.
-
 - [smtube](http://smplayer.sourceforge.net/smtube.php): Stand-alone YouTube video player
 
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
@@ -110,6 +106,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords.
 
 - [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock.
+
+#### YouTube Music
+
+- [beatbump](https://github.com/snuffyDev/Beatbump): Beatbump is an alternative frontend for YouTube Music created using Svelte/SvelteKit, and powered by Cloudflare Workers.
+
+- [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for android.
+
+- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Audiotube is a client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones.
 
 ### Twitter
 
@@ -301,9 +305,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
+- [libredirect](https://github.com/libredirect/libredirect): An actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram,TikTok, Imgur, Reddit, Searx, Google translate, Google Maps, Wikipedia, and Medium.
+
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
 - [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
+
+
 
 ## Related projects
 
