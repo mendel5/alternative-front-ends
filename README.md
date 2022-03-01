@@ -184,7 +184,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
 
-- [Roffline](https://github.com/Darkle/Roffline): A is a self-hosted offline Reddit server.
+- [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server.
 
 ### Instagram
 
