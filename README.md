@@ -184,6 +184,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
 
+- [Roffline](https://github.com/Darkle/Roffline): A is a self-hosted offline Reddit server.
+
 ### Instagram
 
 - [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
