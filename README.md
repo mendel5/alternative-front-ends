@@ -119,6 +119,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+
 ### Twitter
 
 - [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
