@@ -142,7 +142,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Reddit
 
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
-  - Official instance: [teddit.net](https://teddit.net)
+  - Official instance: https://teddit.net
   - Public instances: https://github.com/teddit-net/teddit#instances
   - [Github mirror repository](https://github.com/teddit-net/teddit)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
@@ -173,16 +173,17 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
   - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-  - Forked from [Dank](https://github.com/saket/Dank)
+  - Forked from Dank: https://github.com/saket/Dank
 
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
 
 - [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
-  - Official instance: [https://jpf-reddit.netlify.app](https://jpf-reddit.netlify.app)
+  - Official instance: https://jpf-reddit.netlify.app
   
-- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): `[Proxy]` uwsgi reddit frontend written in python.
-  - Official Instance: [https://kddit.kalli.st](https://kddit.kalli.st)
+- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
+  - Official instance: https://kddit.kalli.st
+  - `[Proxy]`
 
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
