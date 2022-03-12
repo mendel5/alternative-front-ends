@@ -19,6 +19,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Search](#google-search)
 - [Google Translate](#google-translate)
 - [Facebook](#facebook)
+- [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Hacker News](#hacker-news)
 - [Other services](#other-services)
@@ -269,6 +270,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+
+### Reuters
+
+- [HookedBehemoth/supreme-waffle](https://github.com/HookedBehemoth/supreme-waffle): An alternative front-end to Reuters.com. It is intented to be lightweight and fast and was heavily inspired by Nitter
+  - Official instance: https://boxcat.site
 
 ### Apple AirPlay
 
