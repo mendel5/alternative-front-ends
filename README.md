@@ -215,6 +215,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
   - Same album on Imgin: https://imgin.voidnet.tech/a/GD6p5Fi
 
+- [Omgur](https://git.geraldwu.com/gerald/omgur): `[Proxy]` Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
+  - No JavaScript or ads
+  - All requests go through the backend, client never talks to Imgur
+  - Prevents Imgur from tracking your IP or JavaScript fingerprint
+  - Lightweight
+
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
