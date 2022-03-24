@@ -7,6 +7,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Contents
 - [YouTube](#youtube)
+- [YouTube Music](#youtube-music)
 - [Twitter](#twitter)
 - [Reddit](#reddit)
 - [Instagram](#instagram)
@@ -18,6 +19,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Search](#google-search)
 - [Google Translate](#google-translate)
 - [Facebook](#facebook)
+- [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Hacker News](#hacker-news)
 - [Other services](#other-services)
@@ -109,13 +111,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ytcast](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
 
-#### YouTube Music
-
-- [beatbump](https://github.com/snuffyDev/Beatbump): Beatbump is an alternative frontend for YouTube Music created using Svelte/SvelteKit, and powered by Cloudflare Workers.
+### YouTube Music
 
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
 
-- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): AudioTube is a client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
+- [Beatbump](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+
+- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
+
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
 ### Twitter
 
@@ -141,7 +145,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Reddit
 
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
-  - Official instance: [teddit.net](https://teddit.net)
+  - Official instance: https://teddit.net
   - Public instances: https://github.com/teddit-net/teddit#instances
   - [Github mirror repository](https://github.com/teddit-net/teddit)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
@@ -172,19 +176,22 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
   - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-  - Forked from [Dank](https://github.com/saket/Dank)
+  - Forked from Dank: https://github.com/saket/Dank
 
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
 
 - [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
-  - Official instance: [https://jpf-reddit.netlify.app](https://jpf-reddit.netlify.app)
+  - Official instance: https://jpf-reddit.netlify.app
   
-- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): `[Proxy]` uwsgi reddit frontend written in python.
-  - Official Instance: [https://kddit.kalli.st](https://kddit.kalli.st)
+- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
+  - Official instance: https://kddit.kalli.st
+  - `[Proxy]`
 
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
+
+- [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
 ### Instagram
 
@@ -192,7 +199,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
-  - Originally hosted on [Github](https://github.com/cloudrac3r/bibliogram)
 
 - [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
   - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
@@ -254,6 +260,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Searx](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
   - Public instances: https://searx.space
 
+- [SearXNG](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled
+  - SearXNG is a fork of searx
+
 ### Google Translate
 
 - [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
@@ -280,6 +289,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+
+### Reuters
+
+- [HookedBehemoth/supreme-waffle](https://github.com/HookedBehemoth/supreme-waffle): An alternative front-end to Reuters.com. It is intented to be lightweight and fast and was heavily inspired by Nitter
+  - Official instance: https://boxcat.site
 
 ### Apple AirPlay
 
@@ -333,13 +347,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
-- [libredirect](https://github.com/libredirect/libredirect): An actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram,TikTok, Imgur, Reddit, Searx, Google translate, Google Maps, Wikipedia, and Medium.
+- [libredirect](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
 
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
 - [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
-
-
 
 ## Related projects
 
