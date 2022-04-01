@@ -278,7 +278,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Reuters
 
-- [HookedBehemoth/supreme-waffle](https://github.com/HookedBehemoth/supreme-waffle): An alternative front-end to Reuters.com. It is intented to be lightweight and fast and was heavily inspired by Nitter
+- [Neuters](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
   - Official instance: https://boxcat.site
 
 ### Apple AirPlay
