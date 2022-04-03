@@ -263,8 +263,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Searx](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
   - Public instances: https://searx.space
 
-- [SearXNG](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled
-  - SearXNG is a fork of searx
+- [SearXNG](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled (SearXNG is a fork of searx)
 
 ### Google Translate
 
