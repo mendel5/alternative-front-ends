@@ -303,6 +303,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
   - Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
+- [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+
 ### Facebook
 
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
