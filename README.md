@@ -416,7 +416,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official website with install instructions: https://vancedapp.com
   - Note: The source code of Youtube Vanced is not available under a free/open-source license.
   - For an explanation about the origin of Youtube Vanced see here: https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/
-  - The project was forced to shutdown by google. https://github.com/ReVancedTeam is a project aimed to continue its legacy.
+  - Vanced was forced to shut down by Google due to legal reasons. The project https://github.com/ReVancedTeam tries to continue its legacy
 
 ## About this repository
 
