@@ -19,6 +19,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Search](#google-search)
 - [Google Translate](#google-translate)
 - [Facebook](#facebook)
+- [Facebook Messenger](#facebook-messenger)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Hacker News](#hacker-news)
@@ -270,13 +271,15 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Facebook
 
-- [Fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use Facebook Messenger from command line
-
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
-- [Caprine](https://github.com/sindresorhus/caprine/): Privacy-focused Facebook Messenger desktop app with many useful features
+### Facebook Messenger
+
+- [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use your Facebook account to chat with your friends sneakily in the command line, it's as easy as logging in, choosing a convo and chatting away
+
+- [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Reuters
 
