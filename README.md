@@ -15,11 +15,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Imgur](#imgur)
 - [Spotify](#spotify)
 - [Discord](#discord)
-- [Medium](#medium)
 - [Google Search](#google-search)
 - [Google Translate](#google-translate)
 - [Facebook](#facebook)
 - [Facebook Messenger](#facebook-messenger)
+- [Medium](#medium)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Hacker News](#hacker-news)
@@ -249,14 +249,19 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library.
 
+### Twitch
+
+- [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): Multi platform Twitch.tv browser for Streamlink
+
+- [Twire](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
+
+- [Xtra](https://github.com/crackededed/Xtra): Twitch player and browser for Android
+
+- [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
+
 ### Discord
 
 - [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
-
-### Medium
-
-- [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
-  - Official website: https://scribe.rip
 
 ### Google Search
 
@@ -301,6 +306,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use your Facebook account to chat with your friends sneakily in the command line, it's as easy as logging in, choosing a convo and chatting away
 
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
+
+### Medium
+
+- [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
+  - Official website: https://scribe.rip
 
 ### Reuters
 
