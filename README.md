@@ -230,6 +230,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Self-hostable
   - Mirror of the original repository on Github: https://github.com/geraldwuhoo/omgur
 
+- [imgrs](https://git.geraldwu.com/gerald/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
+  - Mirror of the original repository on Github: https://github.com/geraldwuhoo/imgrs
+
 ### Spotify
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
