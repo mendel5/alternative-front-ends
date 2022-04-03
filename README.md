@@ -276,6 +276,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
+- [Caprine](https://github.com/sindresorhus/caprine/): Privacy-focused Facebook Messenger desktop app with many useful features
+
 ### Reuters
 
 - [Neuters](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
