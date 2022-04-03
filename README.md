@@ -21,6 +21,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Translate](#google-translate)
 - [Facebook](#facebook)
 - [Facebook Messenger](#facebook-messenger)
+- [Mastodon](#mastodon)
 - [Medium](#medium)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
@@ -321,6 +322,17 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use your Facebook account to chat with your friends sneakily in the command line, it's as easy as logging in, choosing a convo and chatting away
 
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
+
+### Mastodon
+
+- [Pinafore](https://github.com/nolanlawson/pinafore): an alternative web client for Mastodon focused on speed and efficiency
+- [Mercury](https://onmercury.app/): a customizable iOS client for Mastodon
+- [Sengi](https://github.com/NicolasConstant/sengi): a cross platform FLOSS multi-account Mastodon desktop client
+- [TheDesk](https://github.com/cutls/TheDesk): a cross platform Mastodon desktop client, made with love in Japan
+- [Tootle](https://github.com/bleakgrey/tootle): a simple Linux Mastodon client
+- [Tusky](https://github.com/tuskyapp/Tusky): a lightweight Android Mastodon client
+- [Fedilab](https://framagit.org/tom79/fedilab): a multi-account Android Mastodon client
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): a cross platform Mastodon client that looks like eye candy
 
 ### Medium
 
