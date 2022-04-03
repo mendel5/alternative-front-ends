@@ -64,7 +64,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
-- [OpenVideoDownloader / Youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
+- [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
 - [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
 
@@ -113,6 +113,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
 
 - [ytcast](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
+
+- [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
+
+- [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
+
+- [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### YouTube Music
 
