@@ -224,9 +224,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Omgur](https://git.geraldwu.com/gerald/omgur): `[Proxy]` Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
   - No JavaScript or ads
-  - All requests go through the backend, client never talks to Imgur
+  - All requests go through the Omgur backend, client never talks to Imgur
   - Prevents Imgur from tracking your IP or JavaScript fingerprint
   - Lightweight
+  - Self-hostable
+  - Mirror of the original repository on Github: https://github.com/geraldwuhoo/omgur
 
 ### Spotify
 
@@ -236,11 +238,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [spot](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
 
-- [spotube](https://github.com/KRTirtho/spotube): A lightweight free Spotify headphones desktop-client desktop_computer which handles playback manually, streams music using Youtube & no Spotify premium account is needed scream
+- [spotube](https://github.com/KRTirtho/spotube): A lightweight and free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed
 
-- [SpotX](https://github.com/amd64fox/SpotX): Windows Only - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more. 
+- [SpotX](https://github.com/amd64fox/SpotX): Modified Spotify Client for Windows (Windows Only) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more
 
-- [kotify](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback.
+- [kotify](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
 
 - [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library.
 
