@@ -365,6 +365,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
 
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
+  - Official instance: https://librarian.bcow.xyz
 
 ## Redirection
 
