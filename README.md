@@ -14,6 +14,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [TikTok](#tiktok)
 - [Imgur](#imgur)
 - [Spotify](#spotify)
+- [Apple Music](#apple-music)
 - [Twitch](#twitch)
 - [Discord](#discord)
 - [Google Search](#google-search)
@@ -256,6 +257,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [kotify](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
 
 - [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library.
+
+### Apple Music
+
+- [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
 
 ### Twitch
 
