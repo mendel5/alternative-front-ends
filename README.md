@@ -26,6 +26,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
+- [Telegram](#telegram)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -358,6 +359,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
+
+### Telegram
+
+- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): FOSS-friendly fork of the original Telegram client for Android
 
 ### Other services
 
