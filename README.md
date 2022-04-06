@@ -326,7 +326,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Mastodon
 
 - [Pinafore](https://github.com/nolanlawson/pinafore): an alternative web client for Mastodon focused on speed and efficiency
-- [Mercury](https://onmercury.app/): a customizable iOS client for Mastodon
 - [Sengi](https://github.com/NicolasConstant/sengi): a cross platform FLOSS multi-account Mastodon desktop client
 - [TheDesk](https://github.com/cutls/TheDesk): a cross platform Mastodon desktop client, made with love in Japan
 - [Tootle](https://github.com/bleakgrey/tootle): a simple Linux Mastodon client
