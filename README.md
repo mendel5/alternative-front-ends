@@ -274,7 +274,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Discord
 
-- [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+- [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 ### Google Search
 
