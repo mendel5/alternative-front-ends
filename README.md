@@ -412,6 +412,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Outline.com](https://outline.com): Outline is a free service for reading and annotating news articles.
   - Note: The source code of Outline.com is not available under a free/open-source license.
 
+- [12ft Ladder](https://12ft.io/): 12ft Ladder is a free service for reading and annotating news articles, similar to the currently unavailable Outline.
+  - Note: The source code of 12ft Ladder is not available under a free/open-source license.
+
 - [Youtube Vanced](https://github.com/YTVanced): Youtube replacement app for the Android platform: YouTube Vanced is the stock Android YouTube app, but better. It includes adblocking, true amoled dark mode and a lot more. Use the Vanced Manager to install YouTube Vanced with ease.
   - Official website with install instructions: https://vancedapp.com
   - Note: The source code of Youtube Vanced is not available under a free/open-source license.
