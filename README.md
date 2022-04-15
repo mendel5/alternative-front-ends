@@ -50,6 +50,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
 
+- [YouTube.js](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
@@ -274,7 +276,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Discord
 
-- [gtkcord3](https://github.com/diamondburned/gtkcord3): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+- [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 ### Google Search
 
@@ -408,6 +410,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Matrix.org's Synapse](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+
+- [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
+  - Note: The source code of 12ft Ladder is not available under a free/open-source license.
 
 - [Youtube Vanced](https://github.com/YTVanced): Youtube replacement app for the Android platform: YouTube Vanced is the stock Android YouTube app, but better. It includes adblocking, true amoled dark mode and a lot more. Use the Vanced Manager to install YouTube Vanced with ease.
   - Official website with install instructions: https://vancedapp.com
