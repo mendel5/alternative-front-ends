@@ -123,7 +123,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
 
-- [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross platform front-end GUI of the popular youtube-dl written in wxPython
+- [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
 ### YouTube Music
 
@@ -312,7 +312,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
   - Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
 
-- [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+- [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
 ### Facebook
 
@@ -328,13 +328,19 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Mastodon
 
-- [Pinafore](https://github.com/nolanlawson/pinafore): an alternative web client for Mastodon focused on speed and efficiency
-- [Sengi](https://github.com/NicolasConstant/sengi): a cross platform FLOSS multi-account Mastodon desktop client
-- [TheDesk](https://github.com/cutls/TheDesk): a cross platform Mastodon desktop client, made with love in Japan
-- [Tootle](https://github.com/bleakgrey/tootle): a simple Linux Mastodon client
-- [Tusky](https://github.com/tuskyapp/Tusky): a lightweight Android Mastodon client
-- [Fedilab](https://framagit.org/tom79/fedilab): a multi-account Android Mastodon client
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): a cross platform Mastodon client that looks like eye candy
+- [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+
+- [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+
+- [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+
+- [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+
+- [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+
+- [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
+
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
 
 ### Medium
 
@@ -356,6 +362,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [SongRec](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
 
+### Telegram
+
+- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+
 ### Hacker News
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
@@ -372,10 +382,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
-
-### Telegram
-
-- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ### Other services
 
