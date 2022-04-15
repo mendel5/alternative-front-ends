@@ -50,6 +50,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
 
+- [YouTube.js](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
