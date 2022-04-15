@@ -411,9 +411,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
-- [Outline.com](https://outline.com): Outline is a free service for reading and annotating news articles.
-  - Note: The source code of Outline.com is not available under a free/open-source license.
-
 - [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
   - Note: The source code of 12ft Ladder is not available under a free/open-source license.
 
