@@ -364,7 +364,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Telegram
 
-- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): FOSS-friendly fork of the original Telegram client for Android
+- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
 ### Other services
 
