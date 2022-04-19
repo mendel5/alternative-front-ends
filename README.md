@@ -260,7 +260,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [kotify](https://github.com/dzirbel/kotify): Requires Spotify Account - Multiplatform desktop client for Spotify focused on library organization for power users. Relies on official Spotify client for playback
 
-- [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library.
+- [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
+
+- [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
 
 ### Apple Music
 
