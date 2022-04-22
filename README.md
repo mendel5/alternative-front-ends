@@ -28,6 +28,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
+- [Pastewin](#telegram)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -386,6 +387,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
 
 ### Other services
+
+- [Pastewin](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
+  - Official instance: [pastewin.herokuapp.com](https://pastewin.herokuapp.com)
 
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
