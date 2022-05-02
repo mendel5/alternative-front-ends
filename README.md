@@ -66,6 +66,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
+  - [SkipTube](https://github.com/pantsufan/SkipTube): NewPipe form with SponsorBlock support
 
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
@@ -410,6 +411,18 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
   - Official instance: https://librarian.bcow.xyz
+
+- [Twilio](https://github.com/fonoster/fonoster): Self-hosted alternative for Twilio / twilio.com 
+
+- [KeePassXC](https://keepassxc.org/): password manager for desktop
+  - [KeePassDX](https://www.keepassdx.com/): Compatible password manager for Android
+
+- [Syncthing](https://syncthing.net/): Your own cloud file storage
+  - [Synthing-Android-Fork](https://github.com/Catfriend1/syncthing-android): Syncthing Android app  
+
+- [Briar](https://github.com/briar/briar): Mesh-network messaging app
+
+- [Mailspring](https://github.com/Foundry376/Mailspring/): Alternative desktop mail client
 
 ## Redirection
 
