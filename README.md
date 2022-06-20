@@ -23,6 +23,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
 - [Medium](#medium)
+- [IMDb](#imdb)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
@@ -349,6 +350,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
+### IMDb
+- [IMDb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
+  - Official instance: https://libremdb.herokuapp.com/
 ### Reuters
 
 - [Neuters](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
