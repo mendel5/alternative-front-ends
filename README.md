@@ -23,6 +23,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
 - [Medium](#medium)
+- [Quora](#quora)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
@@ -348,6 +349,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
+
+### Quora
+- [Quora](https://github.com/zyachel/quetre): A libre front-end for Quora
+  - Official website: https://quetre.herokuapp.com/
 
 ### Reuters
 
