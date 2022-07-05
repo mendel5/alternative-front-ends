@@ -28,6 +28,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
+- [Quora](#quora)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -368,6 +369,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
+### Quora
+
+- [Quetre](https://github.com/zyachel/quetre): Quetre is an alternative front-end to Quora.
+It enables you to see answers without ads, trackers, and other such bloat.
+  - Official instance: https://quetre.herokuapp.com/
+  
 ### Hacker News
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
