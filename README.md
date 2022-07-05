@@ -26,7 +26,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
-- [Hacker News](#hacker-news)
 - [Telegram](#telegram)
 - [Quora](#quora)
 - [Hacker News](#hacker-news)
