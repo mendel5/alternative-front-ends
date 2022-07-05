@@ -434,7 +434,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ## Redirection
 
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives. (DISCONTINUED)
-  - [Firefox Add-On: Privacy Redirect](hbtps://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
+  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 - [LibRedirect](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram, TikTok, Imgur, Reddit, Wikipedia, Medium, Quora, IMDb, Reuters, PeerTube, LBRY, Proprietary search engines, Google Translate, and Google Maps.
