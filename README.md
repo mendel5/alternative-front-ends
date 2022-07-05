@@ -29,6 +29,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
 - [Quora](#quora)
+- [Hacker News](#hacker-news)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
