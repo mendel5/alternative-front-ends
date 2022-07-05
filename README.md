@@ -285,6 +285,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
+- [WebCord](https://github.com/SpacingBat3/WebCord): A Discord and Fosscord Electron-based client implemented without Discord API.
+
 ### Google Search
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
