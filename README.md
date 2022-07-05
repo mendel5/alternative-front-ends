@@ -28,6 +28,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Telegram](#telegram)
 - [Quora](#quora)
+- [IMDb](#imdb)
+- [Wikipedia](#wikipedia)
 - [Hacker News](#hacker-news)
 - [Other services](#other-services)
 - [Redirection](#redirection)
@@ -371,9 +373,18 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Quora
 
-- [Quetre](https://github.com/zyachel/quetre): Quetre is an alternative front-end to Quora.
-It enables you to see answers without ads, trackers, and other such bloat.
+- [Quetre](https://github.com/zyachel/quetre): Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
   - Official instance: https://quetre.herokuapp.com/
+  
+### IMDb
+
+- [LibreMDb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb. Inspired by projects like Teddit, Nitter and many others.
+  - Official instance: https://libremdb.herokuapp.com/
+  
+### Wikipedia
+
+- [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy. No Javascript required.
+  - Official instance: https://wikiless.org/
   
 ### Hacker News
 
@@ -401,6 +412,8 @@ It enables you to see answers without ads, trackers, and other such bloat.
 
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
+- [LibreBin](https://github.com/hnhx/librebin): A privacy friendly JavaScript free alternative to Pastebin
+
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
@@ -413,18 +426,16 @@ It enables you to see answers without ads, trackers, and other such bloat.
 
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
-- [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
-
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
   - Official instance: https://librarian.bcow.xyz
 
 ## Redirection
 
-- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives
-  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives. (DISCONTINUED)
+  - [Firefox Add-On: Privacy Redirect](hbtps://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
-- [libredirect](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+- [LibRedirect](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram, TikTok, Imgur, Reddit, Wikipedia, Medium, Quora, IMDb, Reuters, PeerTube, LBRY, Proprietary search engines, Google Translate, and Google Maps.
 
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
