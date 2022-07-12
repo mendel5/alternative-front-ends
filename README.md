@@ -31,7 +31,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [IMDb](#imdb)
 - [Wikipedia](#wikipedia)
 - [Hacker News](#hacker-news)
-- [PasteBin](#pastebin)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -406,11 +405,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
   
-### Pastebin
-
-- [PasteWin](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end. No Javascript required.
-  - Official instance: https://pastewin.herokuapp.com/
-
 ### Other services
 
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
