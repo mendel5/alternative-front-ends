@@ -156,6 +156,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
+- [monotweety](https://github.com/yshrsmz/monotweety): Simple Twitter Android Client just for tweeting
+
 ### Reddit
 
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
