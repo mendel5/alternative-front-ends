@@ -414,8 +414,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
-- [LibreBin](https://github.com/hnhx/librebin): A privacy friendly JavaScript free alternative to Pastebin
-
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
