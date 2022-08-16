@@ -159,6 +159,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
+- [Monotweety](https://github.com/yshrsmz/monotweety): A simple Twitter client just for tweeting.
+
 ### Reddit
 
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
@@ -286,6 +288,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 - [WebCord](https://github.com/SpacingBat3/WebCord): A Discord and Fosscord Electron-based client implemented without Discord API.
+
+- [discord-unspy](https://github.com/iamashley0/discord-unspy): A Discord desktop app that blocks most Discord Tracking/Analytics, based on Electron.
 
 ### Google Search
 
