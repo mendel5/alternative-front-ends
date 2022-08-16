@@ -42,9 +42,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
-  - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
-  - Invidious instances API: https://api.invidious.io
-  - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
+  - Invidious instances: https://docs.invidious.io/instances/
+  - Invidious instances API: https://api.invidious.io/
+  - Installation guide for self-hosting: https://docs.invidious.io/Installation/
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
   - Official instance: https://piped.kavin.rocks
@@ -69,6 +69,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
+  - [Newpipe X SponsorBlock X Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality.
 
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
