@@ -135,6 +135,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
 
+- [Hyperpiped](https://codeberg.org/Hyperpipe/Hyperpipe): A Privacy Respecting Frontend for YouTube Music inspired and built with the help of Piped and YouTube's InnerTube API.
+
+
 ### Twitter
 
 - [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
