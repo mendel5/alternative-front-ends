@@ -137,6 +137,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Hyperpiped](https://codeberg.org/Hyperpipe/Hyperpipe): A Privacy Respecting Frontend for YouTube Music inspired and built with the help of Piped and YouTube's InnerTube API.
 
+- [Ossia](https://github.com/shie1/ossia): The Ossia Music Player is a free, open source alternative to YouTube Music, it uses the Piped API to search across video streams. The app is able to recognize songs and collect their metadata using video data and the Content ID system. Users can log in, which allows them to create playlists.
 
 ### Twitter
 
@@ -320,6 +321,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate): Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+
 ### Facebook
 
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
@@ -371,6 +374,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Telegram
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+
+- [Nekogram-X ](https://github.com/NekoX-Dev/NekoX): NekoX is an free and open source third-party Telegram client, based on Telegram-FOSS with features added.
 
 ### Hacker News
 
