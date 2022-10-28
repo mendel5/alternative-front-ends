@@ -39,7 +39,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
-  - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
+  - Invidious instances: https://github.com/iv-org/documentation/blob/master/docs/instances.md
   - Invidious instances API: https://api.invidious.io
   - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
 
