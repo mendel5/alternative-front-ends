@@ -337,13 +337,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
 
-- [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+- [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client **NOW ARCHIVED!!! THIS IS NOT RECEIVING ANY UPDATES!!!!**
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
-- [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
+- [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client **NOW ARCHIVED!!! THIS IS NOT RECEIVING ANY UPDATES!!!!**
 
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **NOW ARCHIVED!!! THIS IS NOT RECEIVING ANY UPDATES!!!!**
 
 ### Medium
 
