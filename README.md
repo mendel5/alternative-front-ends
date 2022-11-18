@@ -341,6 +341,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
+- [Husky](https://git.sr.ht/~captainepoch/husky): Fork of Tusky, aimed to support Pleroma and whatever could add value to the application.
+
 - [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client **NOW ARCHIVED!!! THIS IS NOT RECEIVING ANY UPDATES!!!!**
 
 - [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **NOW ARCHIVED!!! THIS IS NOT RECEIVING ANY UPDATES!!!!**
