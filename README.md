@@ -67,6 +67,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
 
+- [NewPipe with SponsorBlock & Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality.
+
 - [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
 - [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -121,9 +123,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
 
-- [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
-
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+
+- [VueTube](https://github.com/VueTubeApp/VueTube): A simple and open source video streaming client aimed to recreate ALL the features from their respective apps. Built on Vue
+
+- [Hyperion](https://github.com/zt64/Hyperion): A modern alternate YouTube front-end for Android
 
 ### YouTube Music
 
@@ -134,6 +138,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+
+- [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
+
+- [ViMusic](https://github.com/vfsfitvnm/ViMusic): An Android application for streaming music from YouTube Music
+
+- [InnerTune](https://github.com/z-huang/InnerTune): A material design YouTube Music client for Android
 
 ### Twitter
 
@@ -226,7 +236,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Imgur
 
-- [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
+- [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur written in Go
   - Website: https://i.bcow.xyz/
 
 - [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
@@ -265,6 +275,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
 
+- [Spotube](https://github.com/KRTirtho/spotube): a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience
+
+- [xManager](https://github.com/xManager-v2/xManager-Spotify): An android application where you can manage and install all versions of the spotify app.
+
 ### Apple Music
 
 - [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
@@ -279,9 +293,33 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
 
+- [S0undTV](https://github.com/S0und/S0undTV): An alternative app to watch the Twitch streaming service for Android TV devices
+
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+
+- [OpenCord](https://github.com/MateriiApps/OpenCord): An open-source Material You implementation of the Discord Android app
+
+- [Abaddon](https://github.com/uowuo/abaddon): An alternative Discord client made with C++/gtkmm
+
+- [Accord](https://github.com/evelyneee/accord): A discord client for modern macs
+
+- [Swiftcord](https://github.com/SwiftcordApp/Swiftcord): Native Discord client for macOS built in Swift
+ 
+- [Discordo](https://github.com/ayn2op/discordo): A lightweight, secure, and feature-rich Discord terminal client built with Go
+
+- [ChimeraCord](https://github.com/RoboChimera/ChimeraCord): A functional but elegant unofficial Discord client for freeBSD, that aims for feature-parity with the official Discord client.
+
+- [ArmCord](https://github.com/armcord/armcord): ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
+
+- [datcord](https://github.com/gamingdoom/datcord): An open-source discord client using Firefox
+
+- [purpe-discord](https://github.com/EionRobb/purple-discord): A libpurple/Pidgin plugin for Discord
+
+- [Fosscord](https://github.com/fosscord/fosscord): A free open source selfhostable discord compatible chat, voice and video platform
+
+- [litecord](https://gitlab.com/litecord/litecord): An open source, clean-room design reimplementation of Discord's HTTP API and Gateway in Python 3
 
 ### Google Search
 
@@ -333,6 +371,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
 
+- [Cuckoo+](https://github.com/NanaMorse/Cuckoo.Plus): A GooglePlus-Like third-party web client for mastodon.
+
+- [Whalebird](https://github.com/h3poteto/whalebird-desktop): An Electron-based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
+
 - [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
 
 - [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
@@ -341,19 +383,25 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
+- [SubwayTooter](https://github.com/tateisu/SubwayTooter): A Mastodon client app for Android phone/tablet.
+
+- [Tokodon](https://github.com/KDE/tokodon): A Mastodon client for Plasma and Plasma Mobile
+
 - [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
 
 - [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
 
+- [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client.
+
 ### Medium
 
-- [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
+- [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
 ### Reuters
 
 - [Neuters](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
-  - Official instance: https://boxcat.site
+  - Official instance: https://neuters.de/
 
 ### Apple AirPlay
 
@@ -368,6 +416,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Telegram
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+
+- [Forkgram](https://github.com/Forkgram/TelegramAndroid): A fork of the official Telegram for Android application.
+
+- [Nekogram](https://gitlab.com/Nekogram/Nekogram): An open-source third-party Telegram client with not many but useful mods.
+
+- [NekoX](https://github.com/NekoX-Dev/NekoX): A free and open source third-party Telegram client, based on Telegram-FOSS with features added (including from Nekogram).
 
 ### Hacker News
 
