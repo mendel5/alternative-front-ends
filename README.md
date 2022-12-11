@@ -1,10 +1,6 @@
 # alternative-front-ends
 Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 
-## Call to Action
-- Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-- Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
-
 ## Contents
 - [YouTube](#youtube)
 - [YouTube Music](#youtube-music)
@@ -175,22 +171,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 
 - [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-  - Official instance: [libredd.it](https://libredd.it)
-  - Public instances: https://github.com/spikecodes/libreddit#instances
-
-- [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
-  - Official instance: [xeddit.com](https://www.xeddit.com)
-  - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
+  - Official instance: https://libreddit.spike.codes/
+  - Public instances: https://github.com/libreddit/libreddit-instances/blob/master/instances.md
 
 - [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-
-- [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 - [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
-
-- [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
 
 - [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
   - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
@@ -205,9 +193,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
 
-- [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
-  - Official instance: https://jpf-reddit.netlify.app
-  
 - [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
   - Official instance: https://kddit.kalli.st
   - `[Proxy]`
@@ -217,22 +202,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
-### Instagram
-
-- [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
-  - Unfortunately, Bibliogram is being discontinued. See https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram
-  - Official instance: [https://bibliogram.art](https://bibliogram.art)
-  - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
-  - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
-
-- [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
-  - On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at https://github.com/mendel5/alternative-front-ends/issues/28 and https://austinhuang.me/barinsta .
-  - Fork of Barinsta: https://codeberg.org/avalos/barinsta - "This fork is unofficial unless community decides otherwise. C&D letters will be ignored."
-
 ### TikTok
 
 - [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
-  - Official instance: https://proxitok.herokuapp.com
+  - Official instance: https://proxitok.pabloferreiro.es/
+  - List of Public instances: https://github.com/pablouser1/ProxiTok/wiki/Public-instances
 
 ### Imgur
 
@@ -357,13 +331,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Facebook
 
-- [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
-
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Facebook Messenger
-
-- [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use your Facebook account to chat with your friends sneakily in the command line, it's as easy as logging in, choosing a convo and chatting away
 
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
@@ -391,7 +361,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
 
-- [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client.
+- [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived as of Dec 1, 2022. Looking for mainteners. App still works)
 
 ### Medium
 
@@ -498,6 +468,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Note: The source code of Youtube Vanced is not available under a free/open-source license.
   - For an explanation about the origin of Youtube Vanced see here: https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/
   - Vanced was forced to shut down by Google due to legal reasons. The project https://github.com/ReVancedTeam tries to continue its legacy
+
+## Call to Action
+- Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
+- Just create an issue [here](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
 
 ## About this repository
 
