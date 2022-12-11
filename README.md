@@ -1,4 +1,4 @@
-# alternative-front-ends
+# Open-source alternatives
 Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 
 ## Contents
@@ -15,9 +15,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Discord](#discord)
 - [Google Search](#google-search)
 - [Google Translate](#google-translate)
+- [Google Play Store](#google-play-store)
+- [Google Authenticator](#google-authenticator)
+- [Gmail](#gmail)
 - [Facebook](#facebook)
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
+- [LastPass](#lastpass)
 - [Medium](#medium)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
@@ -330,6 +334,29 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
 
+### Google Play Store
+
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore): An Open Source alternative for Google Play Store
+
+- [F-droid](https://f-droid.org/): An installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
+  - It's not a direct alternative as it only has applications that are open source which may or may not be present in the Play store.
+
+- [Neo Store](https://github.com/NeoApplications/Neo-Store): An F-Droid client with modern UI and an arsenal of extra features. 
+
+### Google Authenticator
+
+- [Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Two-Factor Authentication (2FA) client for Android + Wear OS
+
+### Gmail
+
+- [Thunderbird](https://www.thunderbird.net/en-US/): A free open-source cross-platform email client.
+
+- [FairEmail](https://github.com/M66B/FairEmail): Fully featured, open source, privacy friendly email app for Android
+
+- [K-9 Mail](https://github.com/thundernest/k-9): an open-source email client for Android
+
 ### Facebook
 
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
@@ -363,6 +390,16 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React. (Archived - Nov 9, 2022)
 
 - [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived - Dec 1, 2022)
+
+### LastPass
+
+- [Bitwarden](https://bitwarden.com/): a free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
+  - Mobile app repository: https://github.com/bitwarden/mobile
+  - Browser/Desktop app repository: https://github.com/bitwarden/clients
+
+ - [KeepassXC](https://github.com/keepassxreboot/keepassxc): a modern, cross-platform, secure, and open-source password manager. Requires no internet connection.
+
+ - [Keepass2Android](https://github.com/PhilippC/keepass2android): a Password manager app for Android. Requires no internet connection.
 
 ### Medium
 
@@ -470,11 +507,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
   - Note: The source code of 12ft Ladder is not available under a free/open-source license.
 
-- [Youtube Vanced](https://github.com/YTVanced): Youtube replacement app for the Android platform: YouTube Vanced is the stock Android YouTube app, but better. It includes adblocking, true amoled dark mode and a lot more. Use the Vanced Manager to install YouTube Vanced with ease.
-  - Official website with install instructions: https://vancedapp.com
-  - Note: The source code of Youtube Vanced is not available under a free/open-source license.
-  - For an explanation about the origin of Youtube Vanced see here: https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/
-  - Vanced was forced to shut down by Google due to legal reasons. The project https://github.com/ReVancedTeam tries to continue its legacy
+- [Revanced](https://github.com/revanced): A collection of patches for different applications like Youtube, Twitter, and Reddit.
+  - Revanced Manager: https://github.com/revanced/revanced-manager
+  - List of supported applications: https://github.com/revanced/revanced-patches  
 
 ## Call to Action
 - Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
