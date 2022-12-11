@@ -24,6 +24,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
+- [Quora](#quora)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -40,7 +41,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
-  - Official instance: https://piped.kavin.rocks
+  - Official instance: https://piped.video/
   - List of public instances: https://github.com/TeamPiped/Piped/wiki/Instances
   - Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md
 
@@ -349,7 +350,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
 
-- [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+- [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client. (Archived - Nov 9, 2022)
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
@@ -357,11 +358,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Tokodon](https://github.com/KDE/tokodon): A Mastodon client for Plasma and Plasma Mobile
 
-- [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
+- [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client. (Archived)
 
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React. (Archived - Nov 9, 2022)
 
-- [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived as of Dec 1, 2022. Looking for mainteners. App still works)
+- [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived - Dec 1, 2022)
 
 ### Medium
 
@@ -392,6 +393,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Nekogram](https://gitlab.com/Nekogram/Nekogram): An open-source third-party Telegram client with not many but useful mods.
 
 - [NekoX](https://github.com/NekoX-Dev/NekoX): A free and open source third-party Telegram client, based on Telegram-FOSS with features added (including from Nekogram).
+
+### Quora
+
+- [quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
+  - Official instance: https://quetre.iket.me
+  - List of instances: https://github.com/zyachel/quetre#instances
 
 ### Hacker News
 
