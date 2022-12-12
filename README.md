@@ -1,5 +1,5 @@
 # Open-source alternatives
-Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+Overview of open-source alternative for popular applications.
 
 ## Contents
 - [YouTube](#youtube)
@@ -17,17 +17,21 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Google Translate](#google-translate)
 - [Google Play Store](#google-play-store)
 - [Google Authenticator](#google-authenticator)
+- [Google Maps](#google-maps)
 - [Gmail](#gmail)
+- [Gboard](#gboard)
 - [Facebook](#facebook)
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
+- [Telegram](#telegram)
+- [CCleaner](#ccleaner)
 - [LastPass](#lastpass)
+- [Nova Launcher](#nova-launcher)
 - [Medium](#medium)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
-- [Telegram](#telegram)
 - [Quora](#quora)
 - [Other services](#other-services)
 - [Redirection](#redirection)
@@ -349,6 +353,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Two-Factor Authentication (2FA) client for Android + Wear OS
 
+### Google Maps
+
+- [OpenStreetMap](https://www.openstreetmap.org/): built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
+
+- [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android.
+
+- [OsmAnd](https://github.com/osmandapp/OsmAnd): A map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) database.
+
 ### Gmail
 
 - [Thunderbird](https://www.thunderbird.net/en-US/): A free open-source cross-platform email client.
@@ -356,6 +368,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [FairEmail](https://github.com/M66B/FairEmail): Fully featured, open source, privacy friendly email app for Android
 
 - [K-9 Mail](https://github.com/thundernest/k-9): an open-source email client for Android
+
+### Gboard
+
+- [OpenBoard](https://github.com/openboard-team/openboard): 100% FOSS keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy.
+
+- [FlorisBoard](https://github.com/florisboard/florisboard): A free and open-source keyboard for Android 7.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+
+- [Simple Keyboard](https://github.com/rkkr/simple-keyboard): This keyboard is created for those who only need a keyboard and nothing more. No emoji, GIFs, Swipe typing, Spell checker. <1MB size.
 
 ### Facebook
 
@@ -391,15 +411,38 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived - Dec 1, 2022)
 
+### Telegram
+
+- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+
+- [Forkgram](https://github.com/Forkgram/TelegramAndroid): A fork of the official Telegram for Android application.
+
+- [Nekogram](https://gitlab.com/Nekogram/Nekogram): An open-source third-party Telegram client with not many but useful mods.
+
+- [NekoX](https://github.com/NekoX-Dev/NekoX): A free and open source third-party Telegram client, based on Telegram-FOSS with features added (including from Nekogram).
+
+### CCleaner
+
+- [Bleachbit](https://github.com/bleachbit/bleachbit): An open-source system cleaner for Windows and Linux.
+  - Official website: https://www.bleachbit.org/
+
 ### LastPass
 
-- [Bitwarden](https://bitwarden.com/): a free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
+- [Bitwarden](https://bitwarden.com/): A free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
   - Mobile app repository: https://github.com/bitwarden/mobile
   - Browser/Desktop app repository: https://github.com/bitwarden/clients
 
- - [KeepassXC](https://github.com/keepassxreboot/keepassxc): a modern, cross-platform, secure, and open-source password manager. Requires no internet connection.
+ - [KeepassXC](https://github.com/keepassxreboot/keepassxc): A modern, cross-platform, secure, and open-source password manager. Requires no internet connection.
 
- - [Keepass2Android](https://github.com/PhilippC/keepass2android): a Password manager app for Android. Requires no internet connection.
+ - [Keepass2Android](https://github.com/PhilippC/keepass2android): A Password manager app for Android. Requires no internet connection.
+
+### Nova Launcher
+
+- [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher): A fork of AOSP's launcher for power-users.
+
+- [Lawnchair](https://github.com/LawnchairLauncher/lawnchair): A free, open-source home app for Android. It ports Pixel Launcher features and introduces rich options for customization.
+
+- [KISS Launcher](https://github.com/Neamar/KISS): Blazingly fast launcher focused on search. 
 
 ### Medium
 
@@ -421,15 +464,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [SongRec](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
 
-### Telegram
+### Adobe Reader
 
-- [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+- [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf): A free and open-source document viewer for Windows that supports many document formats including: PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, and CHM.
 
-- [Forkgram](https://github.com/Forkgram/TelegramAndroid): A fork of the official Telegram for Android application.
-
-- [Nekogram](https://gitlab.com/Nekogram/Nekogram): An open-source third-party Telegram client with not many but useful mods.
-
-- [NekoX](https://github.com/NekoX-Dev/NekoX): A free and open source third-party Telegram client, based on Telegram-FOSS with features added (including from Nekogram).
+- [MuPDF](https://mupdf.com/releases/index.html): A lightweight PDF, XPS, and E-book viewer. Cross-platform.
+  - Official website: https://mupdf.com/
 
 ### Quora
 
@@ -498,14 +538,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Firefox Add-On: uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin)
   - [Chrome Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-- [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android
-
 - [Matrix.org's Synapse](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
 
 - [Pluja's Awesome Privacy](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
-- [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
-  - Note: The source code of 12ft Ladder is not available under a free/open-source license.
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome): A web browser extension to help bypass paywalls for selected sites.
+  - Firefox Add-on: https://github.com/iamadamdev/bypass-paywalls-chrome/releases/latest/download/bypass-paywalls-firefox.xpi
+  - Chromium-based Extension: https://github.com/iamadamdev/bypass-paywalls-chrome/archive/master.zip 
 
 - [Revanced](https://github.com/revanced): A collection of patches for different applications like Youtube, Twitter, and Reddit.
   - Revanced Manager: https://github.com/revanced/revanced-manager
@@ -513,12 +552,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Call to Action
 - Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-- Just create an issue [here](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+- Just create an issue [here](https://github.com/takomine/Open-source-alternatives/issues) or in the [original repo](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
 
 ## About this repository
 
-This overview originally included three alternative front-ends: Invidious (for YouTube), Bibliogram (for Instagram) and Nitter (for Twitter). Therefore it was named `alternative front-ends`. As more projects have been added to the repository, the listed projects partially left the scope of *alternative front-ends*.
+**This is a fork of [alternative-front-ends](https://github.com/mendel5/alternative-front-ends). In my opinion, the scope of the original repo has already diverted from just being a catalog of alternative front-ends. This list tries to incorporate not just alternative front-ends but also an alternative open-source application.**
 
-For example, `youtube-dl` is not a front-end, but can be generally described as an open source project that interacts with the internet platform Youtube.
+>This overview originally included three alternative front-ends: Invidious (for YouTube), Bibliogram (for Instagram) and Nitter (for Twitter). Therefore it was named `alternative front-ends`. As more projects have been added to the repository, the listed projects partially left the scope of *alternative front-ends*.
 
-Therefore the name `alternative front-ends` does not capture the full scope of the listed projects anymore. Maybe this repository will be renamed in the future to better reflect the larger scope. A possible name might be `open-source-alternatives` or something similar.
+>For example, `youtube-dl` is not a front-end, but can be generally described as an open source project that interacts with the internet platform Youtube.
+
+>Therefore the name `alternative front-ends` does not capture the full scope of the listed projects anymore. Maybe this repository will be renamed in the future to better reflect the larger scope. A possible name might be `open-source-alternatives` or something similar.
