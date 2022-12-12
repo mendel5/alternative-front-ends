@@ -31,6 +31,7 @@ Overview of open-source alternative for popular applications.
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Quora](#quora)
+- [Pastebin](#pastebin)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -434,6 +435,8 @@ Overview of open-source alternative for popular applications.
 
  - [Keepass2Android](https://github.com/PhilippC/keepass2android): A Password manager app for Android. Requires no internet connection.
 
+ - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+
 ### Nova Launcher
 
 - [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher): A fork of AOSP's launcher for power-users.
@@ -475,6 +478,12 @@ Overview of open-source alternative for popular applications.
   - Official instance: https://quetre.iket.me
   - List of instances: https://github.com/zyachel/quetre#instances
 
+## Pastebin
+
+- [NoPaste](https://github.com/bokub/nopaste): NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
+
+- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
+
 ### Hacker News
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
@@ -497,12 +506,6 @@ Overview of open-source alternative for popular applications.
 - [MediathekViewWeb](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
   - Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
 
-- [NoPaste](https://github.com/bokub/nopaste): NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
-
-- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
-
-- [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-
 - [snapdrop](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
 
 - [hedgedoc](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
@@ -512,8 +515,6 @@ Overview of open-source alternative for popular applications.
 - [gitea](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
 
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
-
-- [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
 
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
   - Official instance: https://librarian.bcow.xyz
