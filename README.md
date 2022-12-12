@@ -1,4 +1,3 @@
-# Open-source alternatives
 Overview of open-source alternative for popular applications.
 
 ## Contents
@@ -6,7 +5,6 @@ Overview of open-source alternative for popular applications.
 - [YouTube Music](#youtube-music)
 - [Twitter](#twitter)
 - [Reddit](#reddit)
-- [Instagram](#instagram)
 - [TikTok](#tiktok)
 - [Imgur](#imgur)
 - [Spotify](#spotify)
