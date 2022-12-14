@@ -11,6 +11,7 @@ Overview of open-source alternative for popular applications.
 - [Apple Music](#apple-music)
 - [Twitch](#twitch)
 - [Discord](#discord)
+- [Google Chrome](#google-chrome)
 - [Google Search](#google-search)
 - [Google Translate](#google-translate)
 - [Google Play Store](#google-play-store)
@@ -135,13 +136,19 @@ Overview of open-source alternative for popular applications.
 
 ### YouTube Music
 
+#### Desktop
+
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
+
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+
+#### Web
 
 - [Beatbump](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
 
-- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
+#### Mobile
 
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music desktop app based on Electron bundled with custom plugins (including built-in ad blocker and downloader)
+- [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
 - [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
 
@@ -151,10 +158,20 @@ Overview of open-source alternative for popular applications.
 
 ### Twitter
 
+#### Desktop
+
+- [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
+
+- [Tweeterr](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
+
+#### Web
+
 - [Nitter](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
   - Official instance: [nitter.net](https://nitter.net)
   - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
+
+#### Mobile
 
 - [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
 
@@ -162,15 +179,13 @@ Overview of open-source alternative for popular applications.
 
 - [Twidere X](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
 
-- [Tweeterr](https://github.com/sherwyn11/Tweeterr): A tool to use Twitter from the command line on the fly
-
 - [Tweet-app](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
-
-- [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
 
 - [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
 ### Reddit
+
+#### Web
 
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
   - Official instance: https://teddit.net
@@ -188,35 +203,37 @@ Overview of open-source alternative for popular applications.
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
+- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
+  - Official instance: https://kddit.kalli.st
+  - `[Proxy]`
+
+- [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
+
+#### Mobile
+
 - [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
   - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
 
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 
-- [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
-  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-  - Forked from Dank: https://github.com/saket/Dank
-
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
-
-- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
-  - Official instance: https://kddit.kalli.st
-  - `[Proxy]`
 
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
 
-- [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
-
 ### TikTok
+
+#### Web
 
 - [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
   - Official instance: https://proxitok.pabloferreiro.es/
   - List of Public instances: https://github.com/pablouser1/ProxiTok/wiki/Public-instances
 
 ### Imgur
+
+#### Web
 
 - [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur written in Go
   - Website: https://i.bcow.xyz/
@@ -239,7 +256,13 @@ Overview of open-source alternative for popular applications.
 - [imgrs](https://git.geraldwu.com/gerald/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
   - Mirror of the original repository on Github: https://github.com/geraldwuhoo/imgrs
 
+#### Mobile
+
+- [ImgurViewer](https://github.com/SpartanJ/ImgurViewer): a little image viewer to open image links from external applications in the fastest way possible.
+
 ### Spotify
+
+#### Desktop
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
@@ -257,31 +280,37 @@ Overview of open-source alternative for popular applications.
 
 - [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
 
+#### Mobile
+
 - [Spotube](https://github.com/KRTirtho/spotube): a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience
 
 - [xManager](https://github.com/xManager-v2/xManager-Spotify): An android application where you can manage and install all versions of the spotify app.
 
 ### Apple Music
 
+#### Desktop
+
 - [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
 
 ### Twitch
 
+#### Desktop
+
 - [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): Multi platform Twitch.tv browser for Streamlink
+
+#### Mobile
 
 - [Twire](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
 
 - [Xtra](https://github.com/crackededed/Xtra): Twitch player and browser for Android
 
-- [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
-
 - [S0undTV](https://github.com/S0und/S0undTV): An alternative app to watch the Twitch streaming service for Android TV devices
 
 ### Discord
 
-- [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+#### Desktop
 
-- [OpenCord](https://github.com/MateriiApps/OpenCord): An open-source Material You implementation of the Discord Android app
+- [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 
 - [Abaddon](https://github.com/uowuo/abaddon): An alternative Discord client made with C++/gtkmm
 
@@ -303,7 +332,44 @@ Overview of open-source alternative for popular applications.
 
 - [litecord](https://gitlab.com/litecord/litecord): An open source, clean-room design reimplementation of Discord's HTTP API and Gateway in Python 3
 
+#### Mobile
+
+- [OpenCord](https://github.com/MateriiApps/OpenCord): An open-source Material You implementation of the Discord Android app
+
+### Google Chrome
+
+#### Desktop
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/): A free and open-source web browser developed by the Mozilla Foundation
+  - Source repo: https://hg.mozilla.org/mozilla-central
+  - FTP Download: https://ftp.mozilla.org/pub/firefox/releases/
+
+- [Brave](https://github.com/brave/brave-browser): Secure, Fast & Private Web Browser with Adblocker
+  - Official website: https://brave.com/
+  - Download: https://brave.com/download/
+
+- [Librewolf](https://gitlab.com/librewolf-community): A Firefox fork with the primary goals of privacy, security and user freedom.
+  - Official website: https://librewolf.net/
+
+- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium): Google Chromium, sans integration with Google.
+
+- [Otter Browser](https://github.com/OtterBrowser/otter-browser): Aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
+
+#### Mobile
+
+- [Fenix](https://github.com/mozilla-mobile/fenix): Firefox for Android
+  - Official Website: https://www.mozilla.org/en-US/firefox/browsers/mobile/
+  
+- [Brave](https://github.com/brave/brave-browser): A fast, free, secure web browser for your mobile devices.
+  - Download link for [Android](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en) and [iOS](https://apps.apple.com/us/app/brave-private-web-browser/id1052879175?mt=8&ign-mpt=uo%3D4)
+
+- [Bromite](https://github.com/bromite/bromite): a Chromium fork with support for ad blocking and enhanced privacy.
+
+- [Mull](https://gitlab.com/divested-mobile/mull-fenix): A privacy oriented and deblobbed web browser based on Mozilla technology. It enables many features upstreamed by the Tor Uplift project using preferences from the arkenfox-user.js project. 
+ 
 ### Google Search
+
+#### Web
 
 - [Whoogle Search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
   - Public instances: https://github.com/benbusby/whoogle-search#public-instances
@@ -316,7 +382,13 @@ Overview of open-source alternative for popular applications.
 - [LibreX](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
   - Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
 
+#### Mobile
+
+- [Gugal](https://gitlab.com/narektor/gugal): A clean, lightweight, FOSS web search app.
+
 ### Google Translate
+
+#### Web
 
 - [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
   - Official instance: [lingva.ml](https://lingva.ml)
