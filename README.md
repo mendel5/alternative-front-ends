@@ -42,6 +42,8 @@ Overview of open-source alternative for popular applications.
 
 ### YouTube
 
+#### Web
+
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
   - Invidious instances: https://github.com/iv-org/documentation/blob/master/docs/instances.md
@@ -57,60 +59,38 @@ Overview of open-source alternative for popular applications.
   - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
 
-- [YouTube.js](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
-
-- [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
-
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
   - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
-
-- [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
-
-- [pipe-viewer](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
-
-- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
-
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
-
-- [NewPipe with SponsorBlock & Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality.
-
-- [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-
-- [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
-
-- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
-
-- [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
-
-- [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
-
-- [Tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-
-- [ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
-
-- [Plumber](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
-
-- [ViewTube](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
 
 - [youtube-local](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
 
 - [yt-local](https://git.sr.ht/~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local](https://github.com/user234683/youtube-local))
 
-- [SkyTube](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
+- [pipe-viewer](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
+
+- [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
+
+- [ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+
+- [ViewTube](https://github.com/ViewTube/viewtube-vue): An alternative front-end for YouTube, written in Vue.js, uses Plyr video player; supports SponsorBlock, multiple Invidious instances support, chapters
+
+#### Desktop
+
+- [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+
+- [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 
-- [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
+- [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
 
-- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+- [Tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 
-- [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
 
-- [TubeArchivist](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
+- [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
-- [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
-
-- [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
+- [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
 
 - [smtube](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
   - Website: https://www.smtube.org
@@ -118,13 +98,15 @@ Overview of open-source alternative for popular applications.
   - SMPlayer website: https://www.smplayer.info
   - SMPlayer repository: https://github.com/smplayer-dev/smplayer
 
-- [mps-youtube](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
+- [ytcc](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
 
-- [minitube](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
+- [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
-- [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+#### Mobile
 
-- [ytcast](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
+
+- [NewPipe with SponsorBlock & Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality.
 
 - [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
 
@@ -132,7 +114,20 @@ Overview of open-source alternative for popular applications.
 
 - [VueTube](https://github.com/VueTubeApp/VueTube): A simple and open source video streaming client aimed to recreate ALL the features from their respective apps. Built on Vue
 
-- [Hyperion](https://github.com/zt64/Hyperion): A modern alternate YouTube front-end for Android
+- [Hyperion](https://github.com/zt64/Hyperion): A modern alternate YouTube front-end for Android/
+
+- [SkyTube](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
+
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
+
+#### TV
+
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+
+- [yattee](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+
+- [ytcast](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
+
 
 ### YouTube Music
 
@@ -388,7 +383,14 @@ Overview of open-source alternative for popular applications.
 
 ### Google Translate
 
+#### Desktop
+
+- [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+
 #### Web
+
+- [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate): Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
+  - Official instance: https://libretranslate.com/
 
 - [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
   - Official instance: [lingva.ml](https://lingva.ml)
@@ -398,18 +400,20 @@ Overview of open-source alternative for popular applications.
   - Official instance: [simplytranslate.org](https://simplytranslate.org)
   - Home page and public instances: https://simple-web.org/projects/simplytranslate.html
 
+#### Mobile
+
+- [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
+
 - [SimplyTranslate Mobile](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
   - Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 
 - [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
   - Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
 
-- [DeepL Android](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
-
-- [Crow Translate](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
-
 ### Google Play Store
+
+#### Mobile
 
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore): An Open Source alternative for Google Play Store
 
@@ -420,13 +424,19 @@ Overview of open-source alternative for popular applications.
 
 ### Google Authenticator
 
+#### Mobile
+
 - [Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens.
 
 - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro): Two-Factor Authentication (2FA) client for Android + Wear OS
 
 ### Google Maps
 
+#### Web
+
 - [OpenStreetMap](https://www.openstreetmap.org/): built by a community of mappers that contribute and maintain data about roads, trails, cafés, railway stations, and much more, all over the world.
+
+#### Mobile
 
 - [StreetComplete](https://github.com/streetcomplete/StreetComplete): Easy to use OpenStreetMap editor for Android.
 
@@ -434,13 +444,21 @@ Overview of open-source alternative for popular applications.
 
 ### Gmail
 
+#### Desktop
+
 - [Thunderbird](https://www.thunderbird.net/en-US/): A free open-source cross-platform email client.
+
+- [Mailspring](https://github.com/Foundry376/Mailspring): A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+
+#### Mobile
 
 - [FairEmail](https://github.com/M66B/FairEmail): Fully featured, open source, privacy friendly email app for Android
 
 - [K-9 Mail](https://github.com/thundernest/k-9): an open-source email client for Android
 
 ### Gboard
+
+#### Mobile
 
 - [OpenBoard](https://github.com/openboard-team/openboard): 100% FOSS keyboard based on AOSP, with no dependency on Google binaries, that respects your privacy.
 
@@ -450,19 +468,21 @@ Overview of open-source alternative for popular applications.
 
 ### Facebook
 
+#### Mobile
+
 - [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
 
 ### Facebook Messenger
+
+#### Desktop
 
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Mastodon
 
-- [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+#### Desktop
 
-- [Cuckoo+](https://github.com/NanaMorse/Cuckoo.Plus): A GooglePlus-Like third-party web client for mastodon.
-
-- [Whalebird](https://github.com/h3poteto/whalebird-desktop): An Electron-based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React. (Archived - Nov 9, 2022)
 
 - [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
 
@@ -470,19 +490,29 @@ Overview of open-source alternative for popular applications.
 
 - [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client. (Archived - Nov 9, 2022)
 
+- [Whalebird](https://github.com/h3poteto/whalebird-desktop): An Electron-based Mastodon, Pleroma and Misskey client for Windows, Mac and Linux
+
+- [Tokodon](https://github.com/KDE/tokodon): A Mastodon client for Plasma and Plasma Mobile
+
+#### Web
+
+- [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+
+- [Cuckoo+](https://github.com/NanaMorse/Cuckoo.Plus): A GooglePlus-Like third-party web client for mastodon.
+
+#### Mobile
+
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
 - [SubwayTooter](https://github.com/tateisu/SubwayTooter): A Mastodon client app for Android phone/tablet.
 
-- [Tokodon](https://github.com/KDE/tokodon): A Mastodon client for Plasma and Plasma Mobile
-
 - [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client. (Archived)
-
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React. (Archived - Nov 9, 2022)
 
 - [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived - Dec 1, 2022)
 
 ### Telegram
+
+#### Mobile
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
@@ -494,22 +524,32 @@ Overview of open-source alternative for popular applications.
 
 ### CCleaner
 
+#### Desktop
+
 - [Bleachbit](https://github.com/bleachbit/bleachbit): An open-source system cleaner for Windows and Linux.
   - Official website: https://www.bleachbit.org/
 
 ### LastPass
 
+#### Desktop
+
 - [Bitwarden](https://bitwarden.com/): A free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
-  - Mobile app repository: https://github.com/bitwarden/mobile
   - Browser/Desktop app repository: https://github.com/bitwarden/clients
 
  - [KeepassXC](https://github.com/keepassxreboot/keepassxc): A modern, cross-platform, secure, and open-source password manager. Requires no internet connection.
 
- - [Keepass2Android](https://github.com/PhilippC/keepass2android): A Password manager app for Android. Requires no internet connection.
-
  - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
+ #### Mobile
+
+ - [Bitwarden](https://bitwarden.com/): A free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
+  - Mobile app repository: https://github.com/bitwarden/mobile
+
+ - [Keepass2Android](https://github.com/PhilippC/keepass2android): A Password manager app for Android. Requires no internet connection.
+
 ### Nova Launcher
+
+#### Mobile
 
 - [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher): A fork of AOSP's launcher for power-users.
 
@@ -519,15 +559,21 @@ Overview of open-source alternative for popular applications.
 
 ### Medium
 
+#### Web
+
 - [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
 ### Reuters
 
+#### Web
+
 - [Neuters](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
   - Official instance: https://neuters.de/
 
 ### Apple AirPlay
+
+#### Desktop
 
 - [RPiPlay](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
 
@@ -535,16 +581,24 @@ Overview of open-source alternative for popular applications.
 
 ### Shazam
 
+#### Desktop
+
 - [SongRec](https://github.com/marin-m/SongRec): Open-source Shazam client for Linux, written in Rust
 
 ### Adobe Reader
 
+#### Desktop
+
 - [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf): A free and open-source document viewer for Windows that supports many document formats including: PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, and CHM.
+
+#### Mobile
 
 - [MuPDF](https://mupdf.com/releases/index.html): A lightweight PDF, XPS, and E-book viewer. Cross-platform.
   - Official website: https://mupdf.com/
 
 ### Quora
+
+#### Web
 
 - [quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
   - Official instance: https://quetre.iket.me
@@ -552,11 +606,15 @@ Overview of open-source alternative for popular applications.
 
 ## Pastebin
 
+#### Web
+
 - [NoPaste](https://github.com/bokub/nopaste): NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
 
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
 
 ### Hacker News
+
+#### Web
 
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
@@ -569,6 +627,8 @@ Overview of open-source alternative for popular applications.
 
 - [Hckrnws](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
   - Official instance: https://www.hckrnws.com
+
+#### Mobile
 
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
