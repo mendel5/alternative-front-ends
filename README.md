@@ -23,6 +23,8 @@ Overview of open-source alternative for popular applications.
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
 - [Telegram](#telegram)
+- [Signal](#signal)
+- [Zoom](#zoom)
 - [CCleaner](#ccleaner)
 - [LastPass](#lastpass)
 - [Nova Launcher](#nova-launcher)
@@ -522,28 +524,51 @@ Overview of open-source alternative for popular applications.
 
 - [NekoX](https://github.com/NekoX-Dev/NekoX): A free and open source third-party Telegram client, based on Telegram-FOSS with features added (including from Nekogram).
 
+### Signal
+
+#### Mobile
+
+- [Molly](https://github.com/mollyim/mollyim-android): A hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation.
+  - Official Website: https://molly.im/
+
+- [Signal-JW](https://github.com/johanw666/Signal-Android): A Signal fork with extra options added.
+
+- [Langis](https://langis.cloudfrancois.fr/): Signal without Google Play Services support.
+  - Source code: [Latest artifact](https://git.legeox.net/capslock/signal-gcm-less/-/jobs/artifacts/master/download?job=upload_vt)
+
+### Zoom
+
+#### Cross-platform
+
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet): A set of Open Source projects which empower users to use and deploy video conferencing platforms with state-of-the-art video quality and features.
+  - Official Website: https://jitsi.org/jitsi-meet/
+
+- [Jami](https://git.jami.net/savoirfairelinux/jami-project): A free software for universal communication which respects freedoms and privacy of its users. P2P. Backed by GNU
+  - Official Website: https://jami.net/
+
 ### CCleaner
 
 #### Desktop
 
 - [Bleachbit](https://github.com/bleachbit/bleachbit): An open-source system cleaner for Windows and Linux.
-  - Official website: https://www.bleachbit.org/
+  - Official Website: https://www.bleachbit.org/
 
 ### LastPass
 
-#### Desktop
+#### Cross-platform
 
 - [Bitwarden](https://bitwarden.com/): A free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
   - Browser/Desktop app repository: https://github.com/bitwarden/clients
+  - Mobile app repository: https://github.com/bitwarden/mobile
+
+#### Desktop
+
 
  - [KeepassXC](https://github.com/keepassxreboot/keepassxc): A modern, cross-platform, secure, and open-source password manager. Requires no internet connection.
 
  - [vaultwarden](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
  #### Mobile
-
- - [Bitwarden](https://bitwarden.com/): A free/freemium open-source password manager that stores sensitive information such as website credentials in an encrypted vault. Can be self-hosted.
-  - Mobile app repository: https://github.com/bitwarden/mobile
 
  - [Keepass2Android](https://github.com/PhilippC/keepass2android): A Password manager app for Android. Requires no internet connection.
 
