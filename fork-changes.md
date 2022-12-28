@@ -24,12 +24,14 @@ added:
 * Blackhole
 * ViMusic
 * InnerTune
+* Brianify
 
 ## Spotify
 
 added:
 * Spotube
 * xManager
+* Spitify
 
 ## Twitch
 
