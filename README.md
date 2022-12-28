@@ -130,7 +130,6 @@ Overview of open-source alternative for popular applications.
 
 - [ytcast](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
 
-
 ### YouTube Music
 
 #### Desktop
@@ -142,6 +141,9 @@ Overview of open-source alternative for popular applications.
 #### Web
 
 - [Beatbump](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+
+- [Brianify](https://github.com/herbievine/brian-ify): A simple Youtube to mp3 downloader
+  -  Website: https://brianify.herbievine.com/
 
 #### Mobile
 
@@ -276,6 +278,8 @@ Overview of open-source alternative for popular applications.
 - [librespot](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
 
 - [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
+
+- [Spytify](https://github.com/jwallet/spy-spotify): A Spotify recorder for Windows which records Spotify audio without recording or playing ads, ensuring no loss in sound quality.
 
 #### Mobile
 
