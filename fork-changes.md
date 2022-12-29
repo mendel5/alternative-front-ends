@@ -56,6 +56,11 @@ added:
 * Fosscord
 * litecord
 
+## Twitter
+
+added:
+* Dabr
+
 ## Mastodon
 
 added:
@@ -90,6 +95,7 @@ added:
 * Forkgram
 * Nekogram
 * NekoX
+* MPGram
 
 ## Instagram
 
