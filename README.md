@@ -182,6 +182,9 @@ Overview of open-source alternative for popular applications.
 
 - [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
+- [Dabr](https://github.com/DavidCarrington/dabr): a PHP web interface to the Twitter API for mobile devices.
+  - Website: https://dabr.co.uk/
+  - This is not a native application. It needs to be opened in a browser. Suitable for old devices like Symbian phones and old Android devices
 ### Reddit
 
 #### Web
@@ -517,6 +520,10 @@ Overview of open-source alternative for popular applications.
 - [Metatext](https://github.com/metabolist/metatext): A free, open-source iOS Mastodon client. (Archived - Dec 1, 2022)
 
 ### Telegram
+
+#### Web
+
+- [MPGram Web](https://github.com/shinovon/mpgram-web): A lightweight telegram web client based on MadelineProto
 
 #### Mobile
 
