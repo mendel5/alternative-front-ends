@@ -284,6 +284,10 @@ Overview of open-source alternative for popular applications.
 
 - [Spytify](https://github.com/jwallet/spy-spotify): A Spotify recorder for Windows which records Spotify audio without recording or playing ads, ensuring no loss in sound quality.
 
+- [Spicetify](https://github.com/spicetify/spicetify-cli): Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
+
+
+
 #### Mobile
 
 - [Spotube](https://github.com/KRTirtho/spotube): a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience
@@ -506,8 +510,13 @@ Overview of open-source alternative for popular applications.
 #### Web
 
 - [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+  - Website: https://pinafore.social/
 
 - [Cuckoo+](https://github.com/NanaMorse/Cuckoo.Plus): A GooglePlus-Like third-party web client for mastodon.
+  - Website: https://www.cuckoo.social/
+  
+- [Elk](https://github.com/elk-zone): A nimble Mastodon web client made by core Vue, Tauri, and Nuxt developers.
+  - Website: https://elk.zone/mas.to/public
 
 #### Mobile
 

@@ -70,6 +70,7 @@ added:
 * SubwayTooter
 * Tokodon
 * Metatext (Archived)
+* Elk
 
 modified:
 * Tootle (Archived)
