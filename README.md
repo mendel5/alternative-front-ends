@@ -518,6 +518,9 @@ Overview of open-source alternative for popular applications.
 - [Elk](https://github.com/elk-zone): A nimble Mastodon web client made by core Vue, Tauri, and Nuxt developers.
   - Website: https://elk.zone/mas.to/public
 
+- [Brutaldon](https://gitlab.com/brutaldon/brutaldon): A brutalist, Web 1.0 web interface for Mastodon and Pleroma. Works completely without JavaScript.
+  - Website: https://brutaldon.org/
+  
 #### Mobile
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
