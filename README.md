@@ -286,8 +286,6 @@ Overview of open-source alternative for popular applications.
 
 - [Spicetify](https://github.com/spicetify/spicetify-cli): Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 
-
-
 #### Mobile
 
 - [Spotube](https://github.com/KRTirtho/spotube): a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience
@@ -546,6 +544,13 @@ Overview of open-source alternative for popular applications.
 - [Nekogram](https://gitlab.com/Nekogram/Nekogram): An open-source third-party Telegram client with not many but useful mods.
 
 - [NekoX](https://github.com/NekoX-Dev/NekoX): A free and open source third-party Telegram client, based on Telegram-FOSS with features added (including from Nekogram).
+
+- [Nagram](https://github.com/NextAlone/Nagram): A third-party Telegram client based on NekoX with some modifications. 
+
+- [Nullgram](https://github.com/qwq233/Nullgram): A free and open source third-party Telegram client, based on Telegram, NekoX and Nekogram.
+
+- [Owlgram](https://github.com/OwlGramDev/OwlGram): An unofficial messaging app that uses Telegram's API.
+  - Website: https://www.owlgram.org/
 
 ### Signal
 
