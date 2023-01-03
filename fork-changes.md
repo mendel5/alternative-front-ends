@@ -1,5 +1,3 @@
-# All changes made from original repo
-
 ## Youtube
 
 added:
@@ -100,6 +98,9 @@ added:
 * Nekogram
 * NekoX
 * MPGram
+* Nagram
+* Nullgram
+* Owlgram
 
 ## Instagram
 
