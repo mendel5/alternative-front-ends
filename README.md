@@ -534,6 +534,7 @@ Overview of open-source alternative for popular applications.
 #### Web
 
 - [MPGram Web](https://github.com/shinovon/mpgram-web): A lightweight telegram web client based on MadelineProto
+  - Official Instance: https://mp.nnchan.ru/
 
 #### Mobile
 
