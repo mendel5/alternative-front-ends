@@ -28,6 +28,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
+- [Porn](#porn)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -368,6 +369,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Telegram
 
 - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+
+
+### Porn
+
+- [PornInvidious](https://github.com/Simple-Web-Project/PornInvidious): Simple JavaScript-Free Frontend for xvideos.com
 
 ### Hacker News
 
