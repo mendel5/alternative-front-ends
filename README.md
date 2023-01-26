@@ -354,7 +354,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Reuters
 
 - [Neuters](https://github.com/HookedBehemoth/neuters): An alternative front-end to Reuters.com. It is intented to be lightweight and fast, and was heavily inspired by Nitter
-  - Official instance: https://boxcat.site
+  - Official instance: https://neuters.de
 
 ### Apple AirPlay
 
