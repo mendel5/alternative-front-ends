@@ -210,6 +210,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Instagram
 
 - [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
+  - Unfortunately, Bibliogram is being discontinued. See https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
