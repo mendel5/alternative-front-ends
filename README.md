@@ -24,6 +24,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Mastodon](#mastodon)
 - [Medium](#medium)
 - [IMDb](#imdb)
+- [Quora](#quora)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
@@ -40,9 +41,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
-  - Invidious instances (Github): https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md
+  - Invidious instances: https://docs.invidious.io/instances/
   - Invidious instances API: https://api.invidious.io
-  - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
+  - Installation guide for self-hosting: https://docs.invidious.io/installation/
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
   - Official instance: https://piped.kavin.rocks
@@ -211,6 +212,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Instagram
 
 - [Bibliogram](https://sr.ht/~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
+  - Unfortunately, Bibliogram is being discontinued. See https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram
   - Official instance: [https://bibliogram.art](https://bibliogram.art)
   - Public instances: https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md
   - Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
@@ -355,6 +357,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [libremdb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
   - Official instance: https://libremdb.iket.me/
   - Public Instances: https://github.com/zyachel/libremdb#instances
+
+### Quora
+
+- [Quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
+  - Official website: https://quetre.iket.me/
+  - Public instances: https://github.com/zyachel/quetre#instances
 
 ### Reuters
 
