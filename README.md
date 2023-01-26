@@ -349,7 +349,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Medium
 
-- [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
+- [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
 ### IMDb
