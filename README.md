@@ -39,9 +39,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
-  - Invidious instances: https://github.com/iv-org/documentation/blob/master/docs/instances.md
+  - Invidious instances: https://docs.invidious.io/instances/
   - Invidious instances API: https://api.invidious.io
-  - Installation guide for self-hosting: https://docs.invidious.io/Installation.md
+  - Installation guide for self-hosting: https://docs.invidious.io/installation/
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
   - Official instance: https://piped.kavin.rocks
