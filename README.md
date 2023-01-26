@@ -351,8 +351,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official website: https://scribe.rip
 
 ### Quora
-- [Quora](https://github.com/zyachel/quetre): A libre front-end for Quora
-  - Official website: https://quetre.herokuapp.com/
+
+- [Quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
+  - Official website: https://quetre.iket.me/
+  - Public instances: https://github.com/zyachel/quetre#instances
 
 ### Reuters
 
