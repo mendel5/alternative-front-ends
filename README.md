@@ -23,6 +23,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Facebook Messenger](#facebook-messenger)
 - [Mastodon](#mastodon)
 - [Medium](#medium)
+- [IMDb](#imdb)
 - [Quora](#quora)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
@@ -350,6 +351,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Scribe](https://sr.ht/~edwardloveall/scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
+
+### IMDb
+
+- [libremdb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
+  - Official instance: https://libremdb.iket.me/
+  - Public Instances: https://github.com/zyachel/libremdb#instances
 
 ### Quora
 
