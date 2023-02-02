@@ -175,6 +175,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
 
+- [Material Dashboard](https://github.com/flatlogic/angular-material-dashboard): Responsive Angular admin dashboard with material design based on Angular Material.
+
 - [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
 - [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
