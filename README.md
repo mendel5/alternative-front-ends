@@ -211,7 +211,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### TikTok
 
 - [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
-  - Official instance: https://proxitok.herokuapp.com
+  - Official instance: https://proxitok.pabloferreiro.es/
 
 ### Imgur
 
