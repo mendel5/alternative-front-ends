@@ -342,6 +342,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
+- [Libmedium](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
+  - Official website: https://libmedium.batsense.net
+
 ### IMDb
 
 - [libremdb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
