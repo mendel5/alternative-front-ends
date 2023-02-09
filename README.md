@@ -50,6 +50,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - List of public instances: https://github.com/TeamPiped/Piped/wiki/Instances
   - Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md
 
+- [Poketube](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
+  - Official instance: [https://poketube.fun](https://poketube.fun)
+
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
   - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
