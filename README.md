@@ -101,7 +101,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
-- [TubeArchivist](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
+- [TubeArchivist](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
 
 - [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
