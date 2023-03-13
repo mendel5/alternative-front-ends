@@ -51,6 +51,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - List of public instances: https://github.com/TeamPiped/Piped/wiki/Instances
   - Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md
 
+- [Poketube](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
+  - Official instance: [https://poketube.fun](https://poketube.fun)
+
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
   - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
@@ -347,6 +350,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Scribe](https://sr.ht/~edwardloveall/Scribe): Alternative front-end to Medium.com
   - Official website: https://scribe.rip
 
+- [Libmedium](https://github.com/realaravinth/libmedium): Alternative front-end to Medium.com
+  - Official website: https://libmedium.batsense.net
+
 ### IMDb
 
 - [libremdb](https://github.com/zyachel/libremdb): A FOSS alternative front-end to IMDb.
@@ -439,6 +445,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
 - [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
+
+- [Redirector](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
+  - [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
+  - [Chrome Extension: Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd)
 
 ## Related projects
 
