@@ -14,6 +14,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Imgur](#imgur)
 - [Spotify](#spotify)
 - [Apple Music](#apple-music)
+- [Bandcamp](#bandcamp)
 - [Twitch](#twitch)
 - [Discord](#discord)
 - [Google Search](#google-search)
@@ -260,6 +261,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Apple Music
 
 - [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
+
+### Bandcamp
+
+- [Tent](https://codeberg.org/sun/Tent): A simple alternative front-end for Bandcamp that does not require JavaScript and proxies all requests
 
 ### Twitch
 
