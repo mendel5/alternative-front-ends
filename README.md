@@ -48,22 +48,23 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
   - Official instance: https://piped.video
-  - List of public instances: https://github.com/TeamPiped/Piped/wiki/Instances
+  - Public instances: https://github.com/TeamPiped/Piped/wiki/Instances
   - Installation guide for self-hosting: https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md
 
 - [Poketube](https://github.com/ashley0143/poketube): The privacy-friendly youtube front-end built with the InnerTube API
   - Official instance: [https://poketube.fun](https://poketube.fun)
 
 - [CloudTube](https://git.sr.ht/~cadence/cloudtube): Alternative front-end for Invidious
-  - Official instance: [https://tube.cadence.moe](https://tube.cadence.moe)
+  - Official instance: https://tube.cadence.moe
   - Installation guide for self-hosting: https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md
 
 - [YouTube.js](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
 
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+  - Official Instance: https://freetubeapp.io/
 
 - [Invuedious](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
-  - Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
+  - Official instance: https://bocchilorenzo.github.io/invuedious
 
 - [Youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 
@@ -136,6 +137,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
 
 - [Beatbump](https://github.com/snuffyDev/Beatbump): An alternative frontend for YouTube Music created using Svelte/SvelteKit, powered by Cloudflare Workers
+  - Official instance: https://beatbump.ml/
 
 - [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
 
@@ -171,7 +173,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 
 - [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-  - Official instance: [libreddit.spike.codes](https://libreddit.spike.codes)
+  - Official instance: https://libreddit.spike.codes
   - Public instances: https://github.com/spikecodes/libreddit#instances
 
 - [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
@@ -206,7 +208,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   
 - [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
   - Official instance: https://kddit.kalli.st
-  - `[Proxy]`
 
 - [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
   - Official instance: https://www.troddit.com
@@ -221,7 +222,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Imgur
 
 - [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
-  - Website: https://i.bcow.xyz/
+  - Public instances: https://codeberg.org/video-prize-ranch/rimgo#instances
 
 - [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
 
@@ -230,7 +231,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
   - Same album on Imgin: https://imgin.voidnet.tech/a/GD6p5Fi
 
-- [Omgur](https://git.geraldwu.com/gerald/omgur): `[Proxy]` Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
+- [Omgur](https://gitlab.wuhoo.xyz/jerry/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
   - No JavaScript or ads
   - All requests go through the Omgur backend, client never talks to Imgur
   - Prevents Imgur from tracking your IP or JavaScript fingerprint
@@ -325,25 +326,23 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Facebook Messenger
 
-- [fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli): Use your Facebook account to chat with your friends sneakily in the command line, it's as easy as logging in, choosing a convo and chatting away
-
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Mastodon
-
-- [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
 
 - [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
 
 - [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
 
-- [Tootle](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+- [Tootle](https://gitlab.gnome.org/World/tootle): simple GTK-based Linux Mastodon client
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
 
-- [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
+- [Fedilab](https://codeberg.org/tom79/Fedilab): multi-account Android Mastodon client
 
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+- [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
+
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode](https://github.com/hyperspacedev/hyperspace/issues/232)** 
 
 ### Medium
 
@@ -429,10 +428,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
-- [Wikiless](https://codeberg.org/orenom/wikiless): A free open source alternative Wikipedia front-end focused on privacy
+- [Wikiless](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
+  - Official instance: https://wikiless.org/
+  - Public instances: https://github.com/Metastem/wikiless
 
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
-  - Official instance: https://librarian.bcow.xyz
+  - Public instances: https://codeberg.org/librarian/librarian#instances
 
 ## Redirection
 
@@ -441,6 +442,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 - [libredirect](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+  - [Firefox Add-On](https://addons.mozilla.org/firefox/addon/libredirect/)
+  - [Chrome Extension](https://libredirect.github.io/download_chromium.html)
 
 - [Farside](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
 
@@ -469,7 +472,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official website with install instructions: https://vancedapp.com
   - Note: The source code of Youtube Vanced is not available under a free/open-source license.
   - For an explanation about the origin of Youtube Vanced see here: https://old.reddit.com/r/Vanced/comments/o3xm9m/if_youtube_vanced_isnt_open_source_and_doesnt/h2ec7wf/
-  - Vanced was forced to shut down by Google due to legal reasons. The project https://github.com/ReVancedTeam tries to continue its legacy
+  - Vanced was forced to shut down by Google due to legal reasons. The project https://github.com/revanced tries to continue its legacy
 
 ## About this repository
 
