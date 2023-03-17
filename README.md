@@ -85,11 +85,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [pipe-viewer](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
 
-- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
-
 - [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
 - [TubeArchivist](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
+
+- [Invidious-viewer](https://github.com/git-bruh/invidious-viewer): Python application to watch YouTube videos through the Invidious API, in the terminal (requires MPV player and libmpv.so, provided by Linux distro)
 
 - [ytfzf](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
 
@@ -105,11 +105,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
 
-- [SkyTube](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
-
 - [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
 
 - [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
+
+- [SkyTube](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
 
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
 
@@ -117,11 +117,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
 
-### YouTube Downloader
-
-- [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
+#### YouTube Downloader
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
+
+- [Youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 
 - [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 
@@ -129,9 +129,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
-- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
-
 - [Vividl](https://github.com/Bluegrams/Vividl): Modern Windows GUI for youtube-dl
+
+- [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
 
 - [Plumber](https://github.com/keshavbhatt/plumber): Local and remote video trimmer, can trim parts of video without downloading whole video, utilizes youtube-dl, allows conversion to GIFs
 
@@ -157,13 +157,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Tweet-app](https://github.com/rhysd/tweet-app): Desktop Twitter client only for tweeting. Timeline never shows up
 
-- [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
+- [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
 
 - [Harpy](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
 
 - [Twidere X](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
 
-- [Fritter](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
+- [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
 
 - [Tweepy](https://github.com/tweepy/tweepy): Twitter for Python
 
@@ -171,53 +171,53 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Reddit
 
+- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+  - Official instance: https://libreddit.spike.codes
+  - Public instances: https://github.com/spikecodes/libreddit#instances
+
+- [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
+  - Official instance: https://www.troddit.com
+
 - [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
   - Official instance: https://teddit.net
   - Public instances: https://github.com/teddit-net/teddit#instances
   - [Github mirror repository](https://github.com/teddit-net/teddit)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 
-- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-  - Official instance: https://libreddit.spike.codes
-  - Public instances: https://github.com/spikecodes/libreddit#instances
+- [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
+
+- [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
+
+- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
+  - Official instance: https://kddit.kalli.st
 
 - [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
   - Official instance: [xeddit.com](https://www.xeddit.com)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
 
-- [RedditClient](https://github.com/grey-r/RedditSharp): Alternative front-end for Reddit, built with Angular
-
-- [Eddrit](https://github.com/corenting/eddrit): Alternative front-end for Reddit, inspired by Nitter, built with Python & Starlette
-
 - [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
   - Official instance: https://jpf-reddit.netlify.app
-  
-- [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
-  - Official instance: https://kddit.kalli.st
-
-- [Troddit](https://github.com/burhan-syed/troddit): A web client for Reddit
-  - Official instance: https://www.troddit.com
-
-- [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
 
 - [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
 - [Top of Reddit](https://github.com/mgerb/top-of-reddit): Top Reddit posts every day
 
-#### Reddit for Android
+- [Snew](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
 
-- [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
-  - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
+#### Reddit for Android
 
 - [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
 
-- [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
-  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
-  - Forked from Dank: https://github.com/saket/Dank
+- [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
+  - Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
 
 - [Slide](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
   - Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
+
+- [Dawn](https://github.com/Tunous/Dawn): Open-source Reddit app
+  - Available on [F-Droid](https://f-droid.org/en/packages/me.thanel.dank)
+  - Forked from Dank: https://github.com/saket/Dank
 
 - [Updoot](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
 
@@ -337,9 +337,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Mastodon
 
-- [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
-
 - [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+
+- [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
 
 - [Tootle](https://gitlab.gnome.org/World/tootle): simple GTK-based Linux Mastodon client
 
@@ -396,14 +396,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Hacker News
 
+- [Hackerweb](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
+  - Official instance: https://hackerweb.app
+  - About Hackerweb: https://hackerwebapp.com
+
 - [HN-search](https://github.com/algolia/hn-search): Algolia Hacker News search
   - Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity&page=0&dateRange=last24h&type=all)
 
 - [HNTopLinks](https://github.com/eguller/hntoplinks): Top Links on Hacker News
-
-- [Hackerweb](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
-  - Official instance: https://hackerweb.app
-  - About Hackerweb: https://hackerwebapp.com
 
 - [Hckrnws](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
   - Official instance: https://www.hckrnws.com
@@ -443,13 +443,13 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ## Redirection
 
-- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, & Google Maps requests to privacy friendly alternatives
-  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
-  - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
-
 - [libredirect](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
   - [Firefox Add-On](https://addons.mozilla.org/firefox/addon/libredirect/)
   - [Chrome Extension](https://libredirect.github.io/download_chromium.html)
+
+- [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect): A simple web extension that redirects Twitter, YouTube, & Google Maps requests to privacy friendly alternatives
+  - [Firefox Add-On: Privacy Redirect](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect)
+  - [Chrome Extension: Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb)
 
 - [Redirector](https://github.com/einaregilsson/Redirector): Web browser extension (Firefox, Vivaldi, Chrome, Opera, Edge) to redirect URLs based on regex or wildcard patterns.
   - [Firefox Add-On: Redirector](https://addons.mozilla.org/firefox/addon/redirector/)
