@@ -243,6 +243,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Mirror of the original repository on Github: https://github.com/geraldwuhoo/imgrs
 
 ### Spotify
+- [Spotify TUI](https://github.com/Rigellute/spotify-tui): Spotify client for the terminal written in Rust
 
 - [psst](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
