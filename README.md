@@ -262,6 +262,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
 
+- [ncspot](https://github.com/hrkfdn/ncspot): ncspot is an ncurses Spotify client written in Rust using librespot. It is heavily inspired by ncurses MPD clients, such as ncmpc. My motivation was to provide a simple and resource friendly alternative to the official client as well as to support platforms that currently don't have a Spotify client, such as the *BSDs.
+
 ### Apple Music
 
 - [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
