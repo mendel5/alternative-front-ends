@@ -205,7 +205,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [junipf/reddit-frontend](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
   - Official instance: https://jpf-reddit.netlify.app
-  
+
 - [kddit](https://git.kalli.st/kallist/kddit-spaghetti): uWSGI frontend for Reddit.com written in Python
   - Official instance: https://kddit.kalli.st
 
@@ -268,7 +268,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Bandcamp
 
-- [Tent](https://codeberg.org/sun/Tent): A simple alternative front-end for Bandcamp that does not require JavaScript and proxies all requests
+- [Tent](https://forgejo.sny.sh/sun/Tent): A simple alternative front-end for Bandcamp that does not require JavaScript and proxies all requests
 
 ### Twitch
 
@@ -342,7 +342,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Pinafore](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity **[Unmaintained](https://nolanlawson.com/2023/01/09/retiring-pinafore/)**
 
-- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode](https://github.com/hyperspacedev/hyperspace/issues/232)** 
+- [Hyperspace](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React **[In maintenance mode](https://github.com/hyperspacedev/hyperspace/issues/232)**
 
 ### Medium
 
