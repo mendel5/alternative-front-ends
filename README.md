@@ -25,6 +25,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Medium](#medium)
 - [IMDb](#imdb)
 - [Quora](#quora)
+- [Goodreads](#goodreads)
 - [Reuters](#reuters)
 - [Apple AirPlay](#apple-airplay)
 - [Shazam](#shazam)
@@ -363,6 +364,11 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Quetre](https://github.com/zyachel/quetre): A libre front-end for Quora
   - Official website: https://quetre.iket.me/
   - Public instances: https://github.com/zyachel/quetre#instances
+
+### Goodreads
+
+- [Librereads](https://github.com/lmssiehdev/librereads): A libre front-end for Goodreads
+  - Official instance: https://librereads.vercel.app/
 
 ### Reuters
 
