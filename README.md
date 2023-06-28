@@ -280,6 +280,9 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
 
+- [twineo](https://codeberg.org/CloudyyUw/twineo): Alternative front-end to Twitch
+  - Public instances: https://twineo.deno.dev
+
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
