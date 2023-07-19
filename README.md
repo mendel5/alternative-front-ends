@@ -172,9 +172,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - [Github mirror repository](https://github.com/teddit-net/teddit)
   - Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
 
-- [Libreddit](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
-  - Official instance: https://libreddit.spike.codes
-  - Public instances: https://github.com/spikecodes/libreddit#instances
+- [Libreddit](https://github.com/libreddit/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+  - Public instances: https://github.com/libreddit/libreddit-instances/blob/master/instances.md
 
 - [Xeddit](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
   - Official instance: [xeddit.com](https://www.xeddit.com)
