@@ -304,10 +304,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Official instance: [lingva.ml](https://lingva.ml)
   - Public instances: https://github.com/TheDavidDelta/lingva-translate#instances
 
-- [SimplyTranslate](https://sr.ht/~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
-  - Official instance: [simplytranslate.org](https://simplytranslate.org)
-  - Home page and public instances: https://simple-web.org/projects/simplytranslate.html
-
 - [SimplyTranslate Mobile](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
   - Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
 
