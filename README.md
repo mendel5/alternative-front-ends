@@ -230,16 +230,14 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Example album on Imgur.com: https://imgur.com/a/GD6p5Fi
   - Same album on Imgin: https://imgin.voidnet.tech/a/GD6p5Fi
 
-- [Omgur](https://gitlab.wuhoo.xyz/jerry/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
+- [Omgur](https://github.com/geraldwuhoo/omgur): Omgur is a free and open-source alternative Imgur front-end focused on privacy. Inspired by the Invidious, Nitter, and Teddit projects.
   - No JavaScript or ads
   - All requests go through the Omgur backend, client never talks to Imgur
   - Prevents Imgur from tracking your IP or JavaScript fingerprint
   - Lightweight
   - Self-hostable
-  - Mirror of the original repository on Github: https://github.com/geraldwuhoo/omgur
 
-- [imgrs](https://git.geraldwu.com/gerald/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
-  - Mirror of the original repository on Github: https://github.com/geraldwuhoo/imgrs
+- [imgrs](https://github.com/geraldwuhoo/imgrs): Imgrs is a free and open-source alternative Imgur front-end focused on privacy. It's a Rust rewrite of a previous Imgur proxy project, Omgur.
 
 ### Spotify
 
