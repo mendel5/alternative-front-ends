@@ -283,6 +283,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+- [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
 
 ### Google Search
 
