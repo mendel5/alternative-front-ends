@@ -257,8 +257,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [spotifyd](https://github.com/Spotifyd/spotifyd): unix daemon, using librespot.
 
-- [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
-
 ### Apple Music
 
 - [Cider](https://github.com/ciderapp/Cider): Cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind
