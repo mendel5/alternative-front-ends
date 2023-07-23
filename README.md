@@ -394,6 +394,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
 
+- [Harmonic](https://github.com/SimonHalvdansson/Harmonic-HN): An elegant Android app for Hacker News. Open source, and [available](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&hl=en_US&gl=US) for free on the Play Store.
+
 ### Other services
 
 - [Pastewin](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
