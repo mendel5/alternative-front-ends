@@ -131,6 +131,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
+- [Telik](https://github.com/agentcooper/Telik): macOS app to track YouTube channels and playlists, videos can be opened using a custom URL
+
 ### YouTube Music
 
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
