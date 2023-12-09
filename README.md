@@ -291,6 +291,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [LibreX](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
   - Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
+ 
+- [4get](https://git.lolcat.ca/lolcat/4get): 4get is a self-hostable privacy focused and lightweight  metasearch engine
 
 ### Google Translate
 
