@@ -219,7 +219,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 ### Imgur
 
-- [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
+- [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur written in Go
   - Public instances: https://codeberg.org/video-prize-ranch/rimgo#instances
 
 - [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
