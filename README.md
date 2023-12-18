@@ -274,6 +274,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer): Electron Based Web Video Services Player. Supports Netflix, Youtube, Twitch, Floatplane, Hulu and more
 
+- [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch): A privacy respecting frontend for twitch.tv
+	- Official Instance: [safetwitch.drgns.space](https://safetwitch.drgns.space)
+	- Public instances: https://codeberg.org/SafeTwitch/safetwitch#user-content-instances
+
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
