@@ -30,6 +30,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Shazam](#shazam)
 - [Hacker News](#hacker-news)
 - [Telegram](#telegram)
+- [Yandex Music](#yandex-music)
 - [Other services](#other-services)
 - [Redirection](#redirection)
 - [Related projects](#related-projects)
@@ -393,6 +394,12 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
+
+### Yandex Music
+
+- [Yaamp](https://yaamp.ru/): Webamp-based player for Yandex Music
+
+- [rhythmbox-plugin-yandex-music](https://github.com/feschukov/rhythmbox-plugin-yandex-music): Yandex Music plugin for Rhythmbox player (Linux-only)
 
 ### Other services
 
