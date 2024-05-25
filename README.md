@@ -149,8 +149,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
-- [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
-
 - [Harpy](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
 
 - [Twidere X](https://github.com/TwidereProject/TwidereX-Android): Android, alternative front-end for Twitter, built mostly with Kotlin, in early stage
@@ -323,7 +321,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
 
 ### Mastodon
-
 - [Sengi](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
 
 - [TheDesk](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
@@ -331,6 +328,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [Tootle](https://gitlab.gnome.org/World/tootle): simple GTK-based Linux Mastodon client
 
 - [Tusky](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+
+- [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
 
 - [Fedilab](https://codeberg.org/tom79/Fedilab): multi-account Android Mastodon client
 
