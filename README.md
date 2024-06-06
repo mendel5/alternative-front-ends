@@ -44,6 +44,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Invidious instances: https://docs.invidious.io/instances/
   - Invidious instances API: https://api.invidious.io
   - Installation guide for self-hosting: https://docs.invidious.io/installation/
+ 
+- [Materialious](https://github.com/Materialious/Materialious): Materialious is a privacy respecting frontend for YouTube built ontop of Invidious. 
 
 - [Piped](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
   - Official instance: https://piped.video
@@ -78,6 +80,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [OpenVideoDownloader aka jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 
 - [ytdl-gui](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
+
+- [MeTube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 
 - [Alltube](https://github.com/Rudloff/alltube): Web GUI for youtube-dl
 
