@@ -278,6 +278,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 - [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
+- [Vesktop](https://github.com/Vencord/Vesktop): A lightweight Discord client that supports Vencord plugins out-of-the-box
+- [ArmCord](https://github.com/ArmCord/ArmCord): A lightweight Discord client with several mods built in, such as Vencord and Shelter
 
 ### Google Search
 
