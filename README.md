@@ -212,6 +212,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
+- [Photon Reddit](https://github.com/ArthurHeitmann/photon-reddit):A clean and modern Reddit desktop web client. Photon is a website to browse reddit without any distractions (no ads, no crowded sidebars, no distracting awards).
 ### TikTok
 
 - [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
