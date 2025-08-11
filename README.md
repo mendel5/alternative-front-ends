@@ -393,6 +393,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Hackers](https://github.com/weiran/Hackers): a native iOS app for Hacker News
   - Available to download on the Apple AppStore: https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901
+ 
+- [Harmonic](https://github.com/SimonHalvdansson/Harmonic-HN): an Android client for HN with "a ton of customization options, bordering on feature creep"
 
 ### Other services
 
