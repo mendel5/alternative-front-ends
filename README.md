@@ -217,6 +217,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
   - Official instance: https://proxitok.pabloferreiro.es/
 
+- [Cyber Collector](https://t.me/cybercollectorbot): Telegram bot for downloading videos from TikTok (no watermark), Instagram, YouTube, X/Twitter and Facebook. No account required.
+
 ### Imgur
 
 - [Rimgo](https://codeberg.org/video-prize-ranch/rimgo): Self-hosted frontend for Imgur ritten in Go
