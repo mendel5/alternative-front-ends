@@ -128,6 +128,7 @@ Overview of alternative open source front-ends for popular internet platforms (e
 - [LibreTube](https://github.com/libre-tube/LibreTube): Android frontend for YouTube, based on Piped
 
 - [BlackHole](https://github.com/Sangwan5688/BlackHole): Android music player app for YouTube Music and Spotify made with Flutter
+- [KMEP](https://github.com/dipodev20/kmep): Not a frontend but the engine for building one — a pure-Dart YouTube extraction library (alternative to NewPipeExtractor) with on-device player.js execution and BotGuard PO token generation; used in production by a daily-driver Android app
 
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
