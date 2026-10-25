@@ -103,6 +103,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
 
+- [PipeTv](https://github.com/LimitedIO/PipeTv): A fast, remote-first YouTube client for Android TV, Google TV and Fire TV. No ads, no account, no Google services, SponsorBlock built in
+
 - [TubeSync](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
 
 - [TubeArchivist](https://github.com/tubearchivist/tubearchivist): A self hosted YouTube media server
